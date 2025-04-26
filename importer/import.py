@@ -22,6 +22,8 @@ def get_set_parts(set_id):
         "Authorization": f"key {auth_token}"
     }
     response = requests.get(url, headers=headers, params=params)
+    if response.status_code != 200:
+        raise Exception(f"Error fetching data: {response.status_code} - {response.text}")
 
     return response.json()
 
