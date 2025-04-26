@@ -1,8 +1,14 @@
+from dotenv import load_dotenv
 import os
 import requests
 import json
 
-auth_token = "6fc94b9c1c7106ca40e43e8e78b31008"
+load_dotenv()
+
+auth_token = os.getenv("REBRICKABLE_AUTH_TOKEN")
+if not auth_token:
+    raise ValueError("Die Umgebungsvariable 'REBRICKABLE_AUTH_TOKEN' ist nicht gesetzt.")
+
 set_list = ["10220", "6544", "6348"]
 
 def get_set_parts(set_id):
