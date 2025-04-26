@@ -1,0 +1,896 @@
+{
+  "count": 19,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 371264,
+      "inv_part_id": 371264,
+      "part": {
+        "part_num": "4460b",
+        "name": "Slope 75\u00b0 2 x 1 x 3 with Hollow Stud",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/4460b/slope-75-2-x-1-x-3-with-hollow-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4162628.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4460b"
+          ],
+          "BrickOwl": [
+            "359919"
+          ],
+          "Brickset": [
+            "4460"
+          ],
+          "LDraw": [
+            "4460b"
+          ],
+          "LEGO": [
+            "4460"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6315483",
+      "num_sets": 20
+    },
+    {
+      "id": 646371,
+      "inv_part_id": 646371,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "614121",
+      "num_sets": 811
+    },
+    {
+      "id": 329550,
+      "inv_part_id": 329550,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614123.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "614123",
+      "num_sets": 376
+    },
+    {
+      "id": 937865,
+      "inv_part_id": 937865,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "614101",
+      "num_sets": 1007
+    },
+    {
+      "id": 171398,
+      "inv_part_id": 171398,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "614121",
+      "num_sets": 811
+    },
+    {
+      "id": 842414,
+      "inv_part_id": 842414,
+      "part": {
+        "part_num": "3666",
+        "name": "Plate 1 x 6",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3666/plate-1-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/366621.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3666"
+          ],
+          "BrickOwl": [
+            "804561"
+          ],
+          "Brickset": [
+            "3666"
+          ],
+          "LDraw": [
+            "3666"
+          ],
+          "LEGO": [
+            "3666"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "366621",
+      "num_sets": 653
+    },
+    {
+      "id": 85992,
+      "inv_part_id": 85992,
+      "part": {
+        "part_num": "3032",
+        "name": "Plate 4 x 6",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3032/plate-4-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4271874.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3032"
+          ],
+          "BrickOwl": [
+            "514495"
+          ],
+          "Brickset": [
+            "3032"
+          ],
+          "LDraw": [
+            "3032"
+          ],
+          "LEGO": [
+            "3032"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4271874",
+      "num_sets": 199
+    },
+    {
+      "id": 41056,
+      "inv_part_id": 41056,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211183.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4211183",
+      "num_sets": 501
+    },
+    {
+      "id": 722304,
+      "inv_part_id": 722304,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306201.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "306201",
+      "num_sets": 634
+    },
+    {
+      "id": 355552,
+      "inv_part_id": 355552,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306221.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "306221",
+      "num_sets": 594
+    },
+    {
+      "id": 439578,
+      "inv_part_id": 439578,
+      "part": {
+        "part_num": "3048c",
+        "name": "Slope 45\u00b0 2 x 1 Triple with Ovoid Bottom Pin",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3048c/slope-45-2-x-1-triple-with-ovoid-bottom-pin/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4195004.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3048c"
+          ],
+          "BrickOwl": [
+            "354644"
+          ],
+          "Brickset": [
+            "3048"
+          ],
+          "LDraw": [
+            "3048b"
+          ],
+          "LEGO": [
+            "3048"
+          ],
+          "Peeron": [
+            "3048"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4195004",
+      "num_sets": 41
+    },
+    {
+      "id": 217639,
+      "inv_part_id": 217639,
+      "part": {
+        "part_num": "4495b",
+        "name": "Flag 4 x 1 Wavy [First Wave Right]",
+        "part_cat_id": 38,
+        "part_url": "https://rebrickable.com/parts/4495b/flag-4-x-1-wavy-first-wave-right/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/449521.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4495b"
+          ],
+          "BrickOwl": [
+            "902639"
+          ],
+          "Brickset": [
+            "4495"
+          ],
+          "LDraw": [
+            "4495b"
+          ],
+          "LEGO": [
+            "4495"
+          ],
+          "Peeron": [
+            "4495"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6268946",
+      "num_sets": 137
+    },
+    {
+      "id": 12664,
+      "inv_part_id": 12664,
+      "part": {
+        "part_num": "4495b",
+        "name": "Flag 4 x 1 Wavy [First Wave Right]",
+        "part_cat_id": 38,
+        "part_url": "https://rebrickable.com/parts/4495b/flag-4-x-1-wavy-first-wave-right/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4504649.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4495b"
+          ],
+          "BrickOwl": [
+            "902639"
+          ],
+          "Brickset": [
+            "4495"
+          ],
+          "LDraw": [
+            "4495b"
+          ],
+          "LEGO": [
+            "4495"
+          ],
+          "Peeron": [
+            "4495"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6268949",
+      "num_sets": 78
+    },
+    {
+      "id": 916938,
+      "inv_part_id": 916938,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614123.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "614123",
+      "num_sets": 376
+    },
+    {
+      "id": 342380,
+      "inv_part_id": 342380,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "7953-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "614101",
+      "num_sets": 1007
+    },
+    {
+      "id": 4136704,
+      "inv_part_id": 4136704,
+      "part": {
+        "part_num": "973e025pr1629",
+        "name": "Torso, Odd Arms, Jester Costume, Red and White Collar, Lion head on Buckle Print, Left Red Arm, Right White Arm, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973e025pr1629/torso-odd-arms-jester-costume-red-and-white-collar-lion-head-on-buckle-print-left-red-arm-right-white-arm-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4586505.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973pb0675c01"
+          ],
+          "BrickOwl": [
+            "688276"
+          ],
+          "Brickset": [
+            "76382",
+            "88585"
+          ],
+          "LDraw": [
+            "76382p4p"
+          ],
+          "LEGO": [
+            "76382",
+            "88585"
+          ]
+        },
+        "print_of": "973e025"
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-001053",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6043810",
+      "num_sets": 5
+    },
+    {
+      "id": 4136701,
+      "inv_part_id": 4136701,
+      "part": {
+        "part_num": "62537pr0003",
+        "name": "Jester's Cap with Red Half and Red Pom Print",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/62537pr0003/jesters-cap-with-red-half-and-red-pom-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4585450.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "62537pb03"
+          ],
+          "BrickOwl": [
+            "190489"
+          ],
+          "Brickset": [
+            "90849"
+          ],
+          "LDraw": [
+            "62537p03"
+          ],
+          "LEGO": [
+            "90849"
+          ],
+          "Peeron": [
+            "62537px3"
+          ]
+        },
+        "print_of": "62537"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-001053",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6034839",
+      "num_sets": 5
+    },
+    {
+      "id": 4136702,
+      "inv_part_id": 4136702,
+      "part": {
+        "part_num": "970l27r22",
+        "name": "Hips and White Left Leg, Red Right Leg",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970l27r22/hips-and-white-left-leg-red-right-leg/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4586393.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970d10"
+          ],
+          "BrickOwl": [
+            "136349"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-001053",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6177730",
+      "num_sets": 4
+    },
+    {
+      "id": 4136703,
+      "inv_part_id": 4136703,
+      "part": {
+        "part_num": "3626bpr0579",
+        "name": "Minifig Head Jester, Huge Grin, White Pupils, Eyebrows / Sad with Tear Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0579/minifig-head-jester-huge-grin-white-pupils-eyebrows-sad-with-tear-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4549620.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb0368"
+          ],
+          "BrickOwl": [
+            "479153"
+          ],
+          "Brickset": [
+            "86289",
+            "92052"
+          ],
+          "LDraw": [
+            "3626bp4h"
+          ],
+          "LEGO": [
+            "86289",
+            "92052"
+          ],
+          "Peeron": [
+            "3626bpx497"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-001053",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4589863",
+      "num_sets": 7
+    }
+  ]
+}

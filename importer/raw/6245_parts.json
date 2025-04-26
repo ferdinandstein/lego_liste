@@ -1,0 +1,777 @@
+{
+  "count": 19,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 2153081,
+      "inv_part_id": 2153081,
+      "part": {
+        "part_num": "3022",
+        "name": "Plate 2 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3022/plate-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302202.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3022"
+          ],
+          "BrickOwl": [
+            "566026"
+          ],
+          "Brickset": [
+            "3022",
+            "94148"
+          ],
+          "LDraw": [
+            "3022",
+            "94148"
+          ],
+          "LEGO": [
+            "3022",
+            "94148"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "302202",
+      "num_sets": 365
+    },
+    {
+      "id": 2153072,
+      "inv_part_id": 2153072,
+      "part": {
+        "part_num": "3403c01",
+        "name": "Turntable 4 x 4 Square Base with Top, Complete Assembly",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/3403c01/turntable-4-x-4-square-base-with-top-complete-assembly/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3403c01.png",
+        "external_ids": {
+          "BrickLink": [
+            "3403c01"
+          ],
+          "BrickOwl": [
+            "594714"
+          ],
+          "LDraw": [
+            "3403c01"
+          ],
+          "Peeron": [
+            "3403b"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "9260",
+      "num_sets": 79
+    },
+    {
+      "id": 2153065,
+      "inv_part_id": 2153065,
+      "part": {
+        "part_num": "84943a",
+        "name": "Weapon Cannon Non Shooting Black Handle",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/84943a/weapon-cannon-non-shooting-black-handle/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/8/84943a-8-7e732d25-75b3-4361-b2d4-2f5cf2bc538c.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "bb0039"
+          ],
+          "BrickOwl": [
+            "229987"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 6
+    },
+    {
+      "id": 2153077,
+      "inv_part_id": 2153077,
+      "part": {
+        "part_num": "3023",
+        "name": "Plate 1 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3023/plate-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302302.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3023"
+          ],
+          "BrickOwl": [
+            "44980"
+          ],
+          "Brickset": [
+            "28653",
+            "3023",
+            "6225"
+          ],
+          "LDraw": [
+            "28653",
+            "3023b"
+          ],
+          "LEGO": [
+            "28653",
+            "3023",
+            "6225"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "302302",
+      "num_sets": 496
+    },
+    {
+      "id": 2153074,
+      "inv_part_id": 2153074,
+      "part": {
+        "part_num": "3957a",
+        "name": "Antenna 1 x 4 with Rounded Top",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/3957a/antenna-1-x-4-with-rounded-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+        "external_ids": {
+          "BrickLink": [
+            "3957"
+          ],
+          "BrickOwl": [
+            "239363"
+          ],
+          "Brickset": [
+            "30064",
+            "3957",
+            "54413"
+          ],
+          "LDraw": [
+            "3957a"
+          ],
+          "LEGO": [
+            "30064",
+            "3957",
+            "54413"
+          ],
+          "Peeron": [
+            "3957"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 282
+    },
+    {
+      "id": 2153080,
+      "inv_part_id": 2153080,
+      "part": {
+        "part_num": "2542",
+        "name": "Equipment Oar / Paddle",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/2542/equipment-oar-paddle/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106940.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2542"
+          ],
+          "BrickOwl": [
+            "446115"
+          ],
+          "Brickset": [
+            "2542"
+          ],
+          "LDraw": [
+            "2542"
+          ],
+          "LEGO": [
+            "2542"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4106940",
+      "num_sets": 39
+    },
+    {
+      "id": 2153075,
+      "inv_part_id": 2153075,
+      "part": {
+        "part_num": "3020",
+        "name": "Plate 2 x 4",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3020/plate-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3020"
+          ],
+          "BrickOwl": [
+            "80025"
+          ],
+          "Brickset": [
+            "3020",
+            "5584"
+          ],
+          "LDraw": [
+            "3020"
+          ],
+          "LEGO": [
+            "3020",
+            "5584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "302002",
+      "num_sets": 381
+    },
+    {
+      "id": 2153067,
+      "inv_part_id": 2153067,
+      "part": {
+        "part_num": "2335pr0005",
+        "name": "Flag 2 x 2 Square [Thin Clips] with Imperial Soldier Black Symbol over White Cross on Blue Background Print",
+        "part_cat_id": 38,
+        "part_url": "https://rebrickable.com/parts/2335pr0005/flag-2-x-2-square-thin-clips-with-imperial-soldier-black-symbol-over-white-cross-on-blue-background-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2335p04.png",
+        "external_ids": {
+          "BrickLink": [
+            "2335p04"
+          ],
+          "BrickOwl": [
+            "548238"
+          ],
+          "LDraw": [
+            "2335p04"
+          ]
+        },
+        "print_of": "2335"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 6
+    },
+    {
+      "id": 2153070,
+      "inv_part_id": 2153070,
+      "part": {
+        "part_num": "2530",
+        "name": "Weapon Sword / Cutlass",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2530/weapon-sword-cutlass/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2530"
+          ],
+          "BrickOwl": [
+            "14169",
+            "693400"
+          ],
+          "Brickset": [
+            "1624",
+            "2530",
+            "35744"
+          ],
+          "LDraw": [
+            "2530"
+          ],
+          "LEGO": [
+            "1624",
+            "2530",
+            "35744"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4161408",
+      "num_sets": 76
+    },
+    {
+      "id": 2153082,
+      "inv_part_id": 2153082,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306226.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 6,
+      "is_spare": false,
+      "element_id": "306226",
+      "num_sets": 728
+    },
+    {
+      "id": 2153071,
+      "inv_part_id": 2153071,
+      "part": {
+        "part_num": "2551",
+        "name": "Boat / Rowing Boat 14 x 5 x 2 with Oarlocks [2 Hollow Inside Studs]",
+        "part_cat_id": 35,
+        "part_url": "https://rebrickable.com/parts/2551/boat-rowing-boat-14-x-5-x-2-with-oarlocks-2-hollow-inside-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/2551.png",
+        "external_ids": {
+          "BrickLink": [
+            "2551"
+          ],
+          "BrickOwl": [
+            "600250"
+          ],
+          "Brickset": [
+            "2551"
+          ],
+          "LDraw": [
+            "2551"
+          ],
+          "LEGO": [
+            "2551"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "255121",
+      "num_sets": 13
+    },
+    {
+      "id": 2153078,
+      "inv_part_id": 2153078,
+      "part": {
+        "part_num": "2526",
+        "name": "Minifig Neckwear Epaulette",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/2526/minifig-neckwear-epaulette/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/252624.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2526"
+          ],
+          "BrickOwl": [
+            "405318"
+          ],
+          "Brickset": [
+            "2526"
+          ],
+          "LDraw": [
+            "2526"
+          ],
+          "LEGO": [
+            "2526"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "252624",
+      "num_sets": 25
+    },
+    {
+      "id": 2153083,
+      "inv_part_id": 2153083,
+      "part": {
+        "part_num": "2527",
+        "name": "Launcher Base, Weapon Cannon Base 2 x 4",
+        "part_cat_id": 68,
+        "part_url": "https://rebrickable.com/parts/2527/launcher-base-weapon-cannon-base-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/252725.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2527"
+          ],
+          "BrickOwl": [
+            "59116"
+          ],
+          "Brickset": [
+            "2527"
+          ],
+          "LDraw": [
+            "2527"
+          ],
+          "LEGO": [
+            "2527"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4161404",
+      "num_sets": 17
+    },
+    {
+      "id": 2153079,
+      "inv_part_id": 2153079,
+      "part": {
+        "part_num": "2562",
+        "name": "Weapon Gun / Pistol Flintlock",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2562/weapon-gun-pistol-flintlock/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/256225.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2562"
+          ],
+          "BrickOwl": [
+            "266165"
+          ],
+          "Brickset": [
+            "2562",
+            "77024"
+          ],
+          "LDraw": [
+            "2562"
+          ],
+          "LEGO": [
+            "2562",
+            "77024"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "is_trans": false
+      },
+      "set_num": "6245-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "256225",
+      "num_sets": 60
+    },
+    {
+      "id": 4132621,
+      "inv_part_id": 4132621,
+      "part": {
+        "part_num": "3626bpr0012",
+        "name": "Minifig Head Cavalry / Knight, Beard Vertical Lines with Messy Hair, Moustache Brown Print [Blocked Open Stud]",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0012/minifig-head-cavalry-knight-beard-vertical-lines-with-messy-hair-moustache-brown-print-blocked-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp42.png",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb0025"
+          ],
+          "BrickOwl": [
+            "293226"
+          ],
+          "LDraw": [
+            "3626bp42"
+          ],
+          "Peeron": [
+            "3626bpx22"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-000137",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 16
+    },
+    {
+      "id": 4132619,
+      "inv_part_id": 4132619,
+      "part": {
+        "part_num": "2528",
+        "name": "Hat Pirate Bicorne (Admiral)",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/2528/hat-pirate-bicorne-admiral/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4512716.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2528"
+          ],
+          "BrickOwl": [
+            "984083"
+          ],
+          "Brickset": [
+            "2528"
+          ],
+          "LDraw": [
+            "2528a"
+          ],
+          "LEGO": [
+            "2528"
+          ],
+          "Peeron": [
+            "x166"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-000137",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4539951",
+      "num_sets": 27
+    },
+    {
+      "id": 4132623,
+      "inv_part_id": 4132623,
+      "part": {
+        "part_num": "970c27",
+        "name": "Hips and White Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c27/hips-and-white-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c01"
+          ],
+          "BrickOwl": [
+            "114115"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-000137",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "9327",
+      "num_sets": 666
+    },
+    {
+      "id": 4132622,
+      "inv_part_id": 4132622,
+      "part": {
+        "part_num": "2526",
+        "name": "Minifig Neckwear Epaulette",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/2526/minifig-neckwear-epaulette/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/252624.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2526"
+          ],
+          "BrickOwl": [
+            "405318"
+          ],
+          "Brickset": [
+            "2526"
+          ],
+          "LDraw": [
+            "2526"
+          ],
+          "LEGO": [
+            "2526"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-000137",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "252624",
+      "num_sets": 25
+    },
+    {
+      "id": 4132620,
+      "inv_part_id": 4132620,
+      "part": {
+        "part_num": "973c28h01pr0204",
+        "name": "Torso Jacket with White Cross Straps Print (Imperial Soldier), Blue Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c28h01pr0204/torso-jacket-with-white-cross-straps-print-imperial-soldier-blue-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/76382p3n.png",
+        "external_ids": {
+          "BrickLink": [
+            "973pb0204c01"
+          ],
+          "BrickOwl": [
+            "696112"
+          ],
+          "LDraw": [
+            "76382p3n"
+          ],
+          "Peeron": [
+            "973p3n"
+          ]
+        },
+        "print_of": "973c28h01"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-000137",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 11
+    }
+  ]
+}

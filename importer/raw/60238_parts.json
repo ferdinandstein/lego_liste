@@ -1,0 +1,202 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1813296,
+      "inv_part_id": 1813296,
+      "part": {
+        "part_num": "53403",
+        "name": "Vehicle Track, Train, Plastic (RC Trains) Switch Point Right",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/53403/vehicle-track-train-plastic-rc-trains-switch-point-right/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4516101.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53404"
+          ],
+          "BrickOwl": [
+            "61430"
+          ],
+          "Brickset": [
+            "18596",
+            "53403"
+          ],
+          "LDraw": [
+            "53404"
+          ],
+          "LEGO": [
+            "18596",
+            "53403"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60238-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6085188",
+      "num_sets": 6
+    },
+    {
+      "id": 1813297,
+      "inv_part_id": 1813297,
+      "part": {
+        "part_num": "53406",
+        "name": "Vehicle Track, Train, Plastic (RC Trains) Switch Point Left",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/53406/vehicle-track-train-plastic-rc-trains-switch-point-left/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4516092.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53407"
+          ],
+          "BrickOwl": [
+            "14214"
+          ],
+          "Brickset": [
+            "18612",
+            "53406"
+          ],
+          "LDraw": [
+            "53407"
+          ],
+          "LEGO": [
+            "18612",
+            "53406"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60238-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6085213",
+      "num_sets": 6
+    },
+    {
+      "id": 1813298,
+      "inv_part_id": 1813298,
+      "part": {
+        "part_num": "28567",
+        "name": "Vehicle Track, Train, Ground Throw / Track Switch [Reinforced]",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/28567/vehicle-track-train-ground-throw-track-switch-reinforced/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6163975.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2866"
+          ],
+          "BrickOwl": [
+            "60966"
+          ],
+          "Brickset": [
+            "28567"
+          ],
+          "LEGO": [
+            "28567"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "60238-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6163975",
+      "num_sets": 3
+    },
+    {
+      "id": 1813295,
+      "inv_part_id": 1813295,
+      "part": {
+        "part_num": "53400",
+        "name": "Vehicle Track, Train, Plastic (RC Trains) Curved",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/53400/vehicle-track-train-plastic-rc-trains-curved/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4279717.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53400"
+          ],
+          "BrickOwl": [
+            "377884"
+          ],
+          "Brickset": [
+            "53400"
+          ],
+          "LDraw": [
+            "53400"
+          ],
+          "LEGO": [
+            "53400"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60238-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4279717",
+      "num_sets": 19
+    },
+    {
+      "id": 2157507,
+      "inv_part_id": 2157507,
+      "part": {
+        "part_num": "219",
+        "name": "Vehicle Track, Train, Connection/Stacking Pin 4 Stud long for Track Storage",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/219/vehicle-track-train-connectionstacking-pin-4-stud-long-for-track-storage/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/u9531b.png",
+        "external_ids": {
+          "BrickLink": [
+            "bb0219"
+          ],
+          "BrickOwl": [
+            "965389"
+          ],
+          "LDraw": [
+            "u9531b"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60238-1",
+      "quantity": 2,
+      "is_spare": true,
+      "element_id": null,
+      "num_sets": 1
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1813294,
+      "inv_part_id": 1813294,
+      "part": {
+        "part_num": "53401",
+        "name": "Vehicle Track, Train, Plastic (RC Trains) Straight",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/53401/vehicle-track-train-plastic-rc-trains-straight/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4279714.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53401"
+          ],
+          "BrickOwl": [
+            "537602"
+          ],
+          "Brickset": [
+            "17275",
+            "53401"
+          ],
+          "LDraw": [
+            "53401"
+          ],
+          "LEGO": [
+            "17275",
+            "53401"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60205-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "6070018",
+      "num_sets": 29
+    },
+    {
+      "id": 1813293,
+      "inv_part_id": 1813293,
+      "part": {
+        "part_num": "64022",
+        "name": "Vehicle Track, Train Flexible Segment",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/64022/vehicle-track-train-flexible-segment/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4535745.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "88492c00"
+          ],
+          "BrickOwl": [
+            "719334"
+          ],
+          "Brickset": [
+            "64022"
+          ],
+          "LDraw": [
+            "64022",
+            "64022c01",
+            "64022c02"
+          ],
+          "LEGO": [
+            "64022"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60205-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "4535745",
+      "num_sets": 6
+    },
+    {
+      "id": 2105754,
+      "inv_part_id": 2105754,
+      "part": {
+        "part_num": "219",
+        "name": "Vehicle Track, Train, Connection/Stacking Pin 4 Stud long for Track Storage",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/219/vehicle-track-train-connectionstacking-pin-4-stud-long-for-track-storage/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/u9531b.png",
+        "external_ids": {
+          "BrickLink": [
+            "bb0219"
+          ],
+          "BrickOwl": [
+            "965389"
+          ],
+          "LDraw": [
+            "u9531b"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60205-1",
+      "quantity": 6,
+      "is_spare": true,
+      "element_id": null,
+      "num_sets": 1
+    },
+    {
+      "id": 1813292,
+      "inv_part_id": 1813292,
+      "part": {
+        "part_num": "53400",
+        "name": "Vehicle Track, Train, Plastic (RC Trains) Curved",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/53400/vehicle-track-train-plastic-rc-trains-curved/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4279717.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53400"
+          ],
+          "BrickOwl": [
+            "377884"
+          ],
+          "Brickset": [
+            "53400"
+          ],
+          "LDraw": [
+            "53400"
+          ],
+          "LEGO": [
+            "53400"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "60205-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4279717",
+      "num_sets": 19
+    }
+  ]
+}

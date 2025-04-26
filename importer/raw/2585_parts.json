@@ -1,0 +1,782 @@
+{
+  "count": 20,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 530711,
+      "inv_part_id": 530711,
+      "part": {
+        "part_num": "2412b",
+        "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+        "part_cat_id": 15,
+        "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241221.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2412b"
+          ],
+          "BrickOwl": [
+            "363948"
+          ],
+          "Brickset": [
+            "15561",
+            "2412",
+            "30244",
+            "35248",
+            "51815",
+            "71957",
+            "78812"
+          ],
+          "LDraw": [
+            "2412b"
+          ],
+          "LEGO": [
+            "15561",
+            "2412",
+            "30244",
+            "35248",
+            "51815",
+            "71957",
+            "78812"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "393321",
+      "num_sets": 280
+    },
+    {
+      "id": 568383,
+      "inv_part_id": 568383,
+      "part": {
+        "part_num": "3794a",
+        "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/3794a/plate-special-1-x-2-with-1-stud-without-groove-jumper/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3794a.png",
+        "external_ids": {
+          "BrickLink": [
+            "3794a"
+          ],
+          "BrickOwl": [
+            "232955"
+          ],
+          "Brickset": [
+            "3794"
+          ],
+          "LDraw": [
+            "3794a"
+          ],
+          "LEGO": [
+            "3794"
+          ],
+          "Peeron": [
+            "3794"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 378
+    },
+    {
+      "id": 116962,
+      "inv_part_id": 116962,
+      "part": {
+        "part_num": "2926",
+        "name": "Plate Special 1 x 4 with Wheels Holder",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/2926/plate-special-1-x-4-with-wheels-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/292621.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2926"
+          ],
+          "BrickOwl": [
+            "266814"
+          ],
+          "Brickset": [
+            "2926",
+            "42946"
+          ],
+          "LDraw": [
+            "2926"
+          ],
+          "LEGO": [
+            "2926",
+            "42946"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "292621",
+      "num_sets": 12
+    },
+    {
+      "id": 609458,
+      "inv_part_id": 609458,
+      "part": {
+        "part_num": "3626bpr0005",
+        "name": "Minifig Head Biggs Darklighter / Soccer Player, Moustache Pointed with Standard Grin Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0005/minifig-head-biggs-darklighter-soccer-player-moustache-pointed-with-standard-grin-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp03.png",
+        "external_ids": {
+          "BrickLink": [
+            "3626p03"
+          ],
+          "BrickOwl": [
+            "318075"
+          ],
+          "LDraw": [
+            "3626bp03"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6020409",
+      "num_sets": 119
+    },
+    {
+      "id": 852373,
+      "inv_part_id": 852373,
+      "part": {
+        "part_num": "2817",
+        "name": "Plate Special 2 x 2 with 2 Pin Holes",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/2817/plate-special-2-x-2-with-2-pin-holes/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/281702.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2817"
+          ],
+          "BrickOwl": [
+            "354504"
+          ],
+          "Brickset": [
+            "2817"
+          ],
+          "LDraw": [
+            "2817"
+          ],
+          "LEGO": [
+            "2817"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "281702",
+      "num_sets": 26
+    },
+    {
+      "id": 451338,
+      "inv_part_id": 451338,
+      "part": {
+        "part_num": "2927",
+        "name": "Train Wheel Small",
+        "part_cat_id": 29,
+        "part_url": "https://rebrickable.com/parts/2927/train-wheel-small/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2927.png",
+        "external_ids": {
+          "BrickLink": [
+            "2927"
+          ],
+          "BrickOwl": [
+            "366093"
+          ],
+          "LDraw": [
+            "2927"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4227798",
+      "num_sets": 12
+    },
+    {
+      "id": 800500,
+      "inv_part_id": 800500,
+      "part": {
+        "part_num": "4524",
+        "name": "Minifig Neckwear Cape [Plastic]",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/4524/minifig-neckwear-cape-plastic/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4524.png",
+        "external_ids": {
+          "BrickLink": [
+            "4524"
+          ],
+          "BrickOwl": [
+            "510628"
+          ],
+          "LDraw": [
+            "4524"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "452421",
+      "num_sets": 14
+    },
+    {
+      "id": 49625,
+      "inv_part_id": 49625,
+      "part": {
+        "part_num": "2458",
+        "name": "Brick Special 1 x 2 with Pin",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/2458/brick-special-1-x-2-with-pin/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/245802.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2458"
+          ],
+          "BrickOwl": [
+            "496432"
+          ],
+          "Brickset": [
+            "2458"
+          ],
+          "LDraw": [
+            "2458"
+          ],
+          "LEGO": [
+            "2458"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "245802",
+      "num_sets": 56
+    },
+    {
+      "id": 59836,
+      "inv_part_id": 59836,
+      "part": {
+        "part_num": "3035",
+        "name": "Plate 4 x 8",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3035/plate-4-x-8/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303502.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3035"
+          ],
+          "BrickOwl": [
+            "936455"
+          ],
+          "Brickset": [
+            "3035"
+          ],
+          "LDraw": [
+            "3035"
+          ],
+          "LEGO": [
+            "3035"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "303502",
+      "num_sets": 99
+    },
+    {
+      "id": 226868,
+      "inv_part_id": 226868,
+      "part": {
+        "part_num": "6019",
+        "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/6019/plate-special-1-x-1-with-clip-horizontal-thick-u-clip/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/601902.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6019"
+          ],
+          "BrickOwl": [
+            "275147"
+          ],
+          "Brickset": [
+            "6019"
+          ],
+          "LDraw": [
+            "6019"
+          ],
+          "LEGO": [
+            "6019"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "601952",
+      "num_sets": 91
+    },
+    {
+      "id": 634609,
+      "inv_part_id": 634609,
+      "part": {
+        "part_num": "30031",
+        "name": "Handlebars",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/30031/handlebars/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/3003126.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30031"
+          ],
+          "BrickOwl": [
+            "784421"
+          ],
+          "Brickset": [
+            "30031",
+            "51723"
+          ],
+          "LDraw": [
+            "30031"
+          ],
+          "LEGO": [
+            "30031",
+            "51723"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "2585-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "3003126",
+      "num_sets": 189
+    },
+    {
+      "id": 4281060,
+      "inv_part_id": 4281060,
+      "part": {
+        "part_num": "3626bpr0326",
+        "name": "Minifig Head Time Cruisers Timmy / Soccer Player, Bangs and Freckles Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0326/minifig-head-time-cruisers-timmy-soccer-player-bangs-and-freckles-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx19-14-1738d754-87bb-425b-b044-73cdb55cad91.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626px19"
+          ],
+          "BrickOwl": [
+            "966298"
+          ],
+          "LDraw": [
+            "3626bp0j"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-004811",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 48
+    },
+    {
+      "id": 4281059,
+      "inv_part_id": 4281059,
+      "part": {
+        "part_num": "973c27h01pr0127",
+        "name": "Torso Red 2 x 4 Brick Print, White Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c27h01pr0127/torso-red-2-x-4-brick-print-white-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973c27h01pr0127-15-9b55bf03-63da-4d90-8cbb-3ef29cdb1a66.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973px127c01"
+          ],
+          "BrickOwl": [
+            "883018"
+          ],
+          "LDraw": [
+            "76382pti"
+          ]
+        },
+        "print_of": "973c27h01"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-004811",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 1
+    },
+    {
+      "id": 4281061,
+      "inv_part_id": 4281061,
+      "part": {
+        "part_num": "970c28",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c28/hips-and-blue-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c07"
+          ],
+          "BrickOwl": [
+            "851096"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "fig-004811",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "9341",
+      "num_sets": 899
+    },
+    {
+      "id": 4281058,
+      "inv_part_id": 4281058,
+      "part": {
+        "part_num": "4485",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/4485/hat-cap-long-peak-plain/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/448521.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4485"
+          ],
+          "BrickOwl": [
+            "665447"
+          ],
+          "Brickset": [
+            "4485"
+          ],
+          "LDraw": [
+            "4485b"
+          ],
+          "LEGO": [
+            "4485"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-004811",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "448521",
+      "num_sets": 216
+    },
+    {
+      "id": 4281063,
+      "inv_part_id": 4281063,
+      "part": {
+        "part_num": "973c01h22pr0128",
+        "name": "Torso Train Logo Large Red Print, Yellow Arms, Red Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c01h22pr0128/torso-train-logo-large-red-print-yellow-arms-red-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/14/973px128c01-14-118556ea-e2e5-41fc-acd1-1bdb2b023f4f.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973px128c01"
+          ],
+          "BrickOwl": [
+            "575956"
+          ],
+          "LDraw": [
+            "76382pth"
+          ]
+        },
+        "print_of": "973c01h22"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-004812",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 1
+    },
+    {
+      "id": 4281065,
+      "inv_part_id": 4281065,
+      "part": {
+        "part_num": "3626bpr9965",
+        "name": "Minifig Head, Mask Red with Eyeholes and Moustache Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr9965/minifig-head-mask-red-with-eyeholes-and-moustache-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpr9965-14-4633c545-cef4-45b4-88f3-c93497c320a4.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626px77"
+          ],
+          "BrickOwl": [
+            "965051"
+          ],
+          "LDraw": [
+            "3626bp0n"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-004812",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 1
+    },
+    {
+      "id": 4281067,
+      "inv_part_id": 4281067,
+      "part": {
+        "part_num": "3624",
+        "name": "Cap, Police Style",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/3624/cap-police-style/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/362421.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3624"
+          ],
+          "BrickOwl": [
+            "368981"
+          ],
+          "Brickset": [
+            "3624"
+          ],
+          "LDraw": [
+            "3624"
+          ],
+          "LEGO": [
+            "3624"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-004812",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6292414",
+      "num_sets": 94
+    },
+    {
+      "id": 4281066,
+      "inv_part_id": 4281066,
+      "part": {
+        "part_num": "4524",
+        "name": "Minifig Neckwear Cape [Plastic]",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/4524/minifig-neckwear-cape-plastic/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4524.png",
+        "external_ids": {
+          "BrickLink": [
+            "4524"
+          ],
+          "BrickOwl": [
+            "510628"
+          ],
+          "LDraw": [
+            "4524"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-004812",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "452421",
+      "num_sets": 14
+    },
+    {
+      "id": 4281064,
+      "inv_part_id": 4281064,
+      "part": {
+        "part_num": "970c01",
+        "name": "Hips and Yellow Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c01/hips-and-yellow-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6261448.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c03"
+          ],
+          "BrickOwl": [
+            "829618",
+            "863328"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LDraw": [
+            "n/k"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-004812",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "75169",
+      "num_sets": 51
+    }
+  ]
+}

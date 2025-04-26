@@ -1,0 +1,1117 @@
+{
+  "count": 27,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 794177,
+      "inv_part_id": 794177,
+      "part": {
+        "part_num": "57505",
+        "name": "Money / Coin with \"30\" Sans-serif Type",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/57505/money-coin-with-30-sans-serif-type/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501c.png",
+        "external_ids": {
+          "BrickLink": [
+            "70501c"
+          ],
+          "BrickOwl": [
+            "658744"
+          ],
+          "LDraw": [
+            "70501c"
+          ],
+          "Peeron": [
+            "70501c"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 334,
+        "name": "Chrome Gold",
+        "rgb": "BBA53D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 136
+    },
+    {
+      "id": 35075,
+      "inv_part_id": 35075,
+      "part": {
+        "part_num": "2489",
+        "name": "Barrel 2 x 2 x 2",
+        "part_cat_id": 7,
+        "part_url": "https://rebrickable.com/parts/2489/barrel-2-x-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/248925.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2489"
+          ],
+          "BrickOwl": [
+            "509891"
+          ],
+          "Brickset": [
+            "2489",
+            "26170"
+          ],
+          "LDraw": [
+            "2489"
+          ],
+          "LEGO": [
+            "2489",
+            "26170"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "248925",
+      "num_sets": 87
+    },
+    {
+      "id": 32626,
+      "inv_part_id": 32626,
+      "part": {
+        "part_num": "2530",
+        "name": "Weapon Sword / Cutlass",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2530/weapon-sword-cutlass/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2530"
+          ],
+          "BrickOwl": [
+            "14169",
+            "693400"
+          ],
+          "Brickset": [
+            "1624",
+            "2530",
+            "35744"
+          ],
+          "LDraw": [
+            "2530"
+          ],
+          "LEGO": [
+            "1624",
+            "2530",
+            "35744"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4161408",
+      "num_sets": 76
+    },
+    {
+      "id": 652066,
+      "inv_part_id": 652066,
+      "part": {
+        "part_num": "3710",
+        "name": "Plate 1 x 4",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3710/plate-1-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/371002.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3710"
+          ],
+          "BrickOwl": [
+            "515555"
+          ],
+          "Brickset": [
+            "3710"
+          ],
+          "LDraw": [
+            "3710"
+          ],
+          "LEGO": [
+            "3710"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "371002",
+      "num_sets": 350
+    },
+    {
+      "id": 578902,
+      "inv_part_id": 578902,
+      "part": {
+        "part_num": "57503",
+        "name": "Money / Coin with \"10\" Sans-serif Type",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/57503/money-coin-with-10-sans-serif-type/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501a.png",
+        "external_ids": {
+          "BrickLink": [
+            "70501a"
+          ],
+          "BrickOwl": [
+            "772181"
+          ],
+          "LDraw": [
+            "70501a"
+          ],
+          "Peeron": [
+            "70501a"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 334,
+        "name": "Chrome Gold",
+        "rgb": "BBA53D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 136
+    },
+    {
+      "id": 744165,
+      "inv_part_id": 744165,
+      "part": {
+        "part_num": "2530",
+        "name": "Weapon Sword / Cutlass",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2530/weapon-sword-cutlass/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2530"
+          ],
+          "BrickOwl": [
+            "14169",
+            "693400"
+          ],
+          "Brickset": [
+            "1624",
+            "2530",
+            "35744"
+          ],
+          "LDraw": [
+            "2530"
+          ],
+          "LEGO": [
+            "1624",
+            "2530",
+            "35744"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4161408",
+      "num_sets": 76
+    },
+    {
+      "id": 33230,
+      "inv_part_id": 33230,
+      "part": {
+        "part_num": "6148",
+        "name": "Plant, Palm Leaf Small",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/6148/plant-palm-leaf-small/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4160980.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6148"
+          ],
+          "BrickOwl": [
+            "257873"
+          ],
+          "Brickset": [
+            "6148"
+          ],
+          "LDraw": [
+            "6148"
+          ],
+          "LEGO": [
+            "6148"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6269040",
+      "num_sets": 77
+    },
+    {
+      "id": 326571,
+      "inv_part_id": 326571,
+      "part": {
+        "part_num": "3023",
+        "name": "Plate 1 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3023/plate-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302302.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3023"
+          ],
+          "BrickOwl": [
+            "44980"
+          ],
+          "Brickset": [
+            "28653",
+            "3023",
+            "6225"
+          ],
+          "LDraw": [
+            "28653",
+            "3023b"
+          ],
+          "LEGO": [
+            "28653",
+            "3023",
+            "6225"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "302302",
+      "num_sets": 496
+    },
+    {
+      "id": 273759,
+      "inv_part_id": 273759,
+      "part": {
+        "part_num": "57504",
+        "name": "Money / Coin with \"20\" Sans-serif Type",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/57504/money-coin-with-20-sans-serif-type/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501b.png",
+        "external_ids": {
+          "BrickLink": [
+            "70501b"
+          ],
+          "BrickOwl": [
+            "625760"
+          ],
+          "LDraw": [
+            "70501b"
+          ],
+          "Peeron": [
+            "70501b"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 334,
+        "name": "Chrome Gold",
+        "rgb": "BBA53D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 136
+    },
+    {
+      "id": 506693,
+      "inv_part_id": 506693,
+      "part": {
+        "part_num": "57506",
+        "name": "Money / Coin with \"40\" Sans-serif Type",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/57506/money-coin-with-40-sans-serif-type/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501d.png",
+        "external_ids": {
+          "BrickLink": [
+            "70501d"
+          ],
+          "BrickOwl": [
+            "794350"
+          ],
+          "LDraw": [
+            "70501d"
+          ],
+          "Peeron": [
+            "70501d"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 334,
+        "name": "Chrome Gold",
+        "rgb": "BBA53D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 136
+    },
+    {
+      "id": 648401,
+      "inv_part_id": 648401,
+      "part": {
+        "part_num": "6265",
+        "name": "Arm Skeleton",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/6265/arm-skeleton/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4142875.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6265"
+          ],
+          "BrickOwl": [
+            "317303"
+          ],
+          "Brickset": [
+            "6265"
+          ],
+          "LDraw": [
+            "6265"
+          ],
+          "LEGO": [
+            "6265"
+          ],
+          "Peeron": [
+            "6260c01"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "626501",
+      "num_sets": 77
+    },
+    {
+      "id": 426706,
+      "inv_part_id": 426706,
+      "part": {
+        "part_num": "3004",
+        "name": "Brick 1 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3004/brick-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300402.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3004"
+          ],
+          "BrickOwl": [
+            "442413"
+          ],
+          "Brickset": [
+            "3004",
+            "93792"
+          ],
+          "LDraw": [
+            "3004"
+          ],
+          "LEGO": [
+            "3004",
+            "93792"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "300402",
+      "num_sets": 290
+    },
+    {
+      "id": 506389,
+      "inv_part_id": 506389,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300302.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3003"
+          ],
+          "BrickOwl": [
+            "939628"
+          ],
+          "Brickset": [
+            "15591",
+            "3003",
+            "62404"
+          ],
+          "LDraw": [
+            "3003"
+          ],
+          "LEGO": [
+            "15591",
+            "3003",
+            "62404"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4103591",
+      "num_sets": 144
+    },
+    {
+      "id": 192909,
+      "inv_part_id": 192909,
+      "part": {
+        "part_num": "2562",
+        "name": "Weapon Gun / Pistol Flintlock",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2562/weapon-gun-pistol-flintlock/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/256225.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2562"
+          ],
+          "BrickOwl": [
+            "266165"
+          ],
+          "Brickset": [
+            "2562",
+            "77024"
+          ],
+          "LDraw": [
+            "2562"
+          ],
+          "LEGO": [
+            "2562",
+            "77024"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "256225",
+      "num_sets": 60
+    },
+    {
+      "id": 218176,
+      "inv_part_id": 218176,
+      "part": {
+        "part_num": "3622",
+        "name": "Brick 1 x 3",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3622/brick-1-x-3/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/362202.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3622"
+          ],
+          "BrickOwl": [
+            "367537"
+          ],
+          "Brickset": [
+            "3622",
+            "45505"
+          ],
+          "LDraw": [
+            "3622",
+            "45505"
+          ],
+          "LEGO": [
+            "3622",
+            "45505"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "362202",
+      "num_sets": 110
+    },
+    {
+      "id": 115024,
+      "inv_part_id": 115024,
+      "part": {
+        "part_num": "3036",
+        "name": "Plate 6 x 8",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3036/plate-6-x-8/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303624.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3036"
+          ],
+          "BrickOwl": [
+            "266096"
+          ],
+          "Brickset": [
+            "3036"
+          ],
+          "LDraw": [
+            "3036"
+          ],
+          "LEGO": [
+            "3036"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4552333",
+      "num_sets": 16
+    },
+    {
+      "id": 743787,
+      "inv_part_id": 743787,
+      "part": {
+        "part_num": "6148",
+        "name": "Plant, Palm Leaf Small",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/6148/plant-palm-leaf-small/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4160980.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6148"
+          ],
+          "BrickOwl": [
+            "257873"
+          ],
+          "Brickset": [
+            "6148"
+          ],
+          "LDraw": [
+            "6148"
+          ],
+          "LEGO": [
+            "6148"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6269040",
+      "num_sets": 77
+    },
+    {
+      "id": 734710,
+      "inv_part_id": 734710,
+      "part": {
+        "part_num": "4215b",
+        "name": "Panel 1 x 4 x 3 [Hollow Studs]",
+        "part_cat_id": 23,
+        "part_url": "https://rebrickable.com/parts/4215b/panel-1-x-4-x-3-hollow-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4215b.png",
+        "external_ids": {
+          "BrickLink": [
+            "4215b"
+          ],
+          "BrickOwl": [
+            "994094"
+          ],
+          "Brickset": [
+            "30007",
+            "4215"
+          ],
+          "LDraw": [
+            "4215b"
+          ],
+          "LEGO": [
+            "30007",
+            "4215"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6232-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4186671",
+      "num_sets": 10
+    },
+    {
+      "id": 4293370,
+      "inv_part_id": 4293370,
+      "part": {
+        "part_num": "6260",
+        "name": "Torso Skeleton [Thin Shoulder Pins]",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/6260/torso-skeleton-thin-shoulder-pins/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/626001.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6260"
+          ],
+          "BrickOwl": [
+            "412371"
+          ],
+          "Brickset": [
+            "6260"
+          ],
+          "LDraw": [
+            "6260"
+          ],
+          "LEGO": [
+            "6260"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-005285",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "626001",
+      "num_sets": 78
+    },
+    {
+      "id": 4293367,
+      "inv_part_id": 4293367,
+      "part": {
+        "part_num": "3626bpr0895",
+        "name": "Minifig Head Skeleton, Standard Skull Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0895/minifig-head-skeleton-standard-skull-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6008095.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb0001"
+          ],
+          "BrickOwl": [
+            "422145"
+          ],
+          "Brickset": [
+            "10879",
+            "82359"
+          ],
+          "LDraw": [
+            "3626bpaq",
+            "82359"
+          ],
+          "LEGO": [
+            "10879",
+            "82359"
+          ],
+          "Peeron": [
+            "82359"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-005285",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "82359",
+      "num_sets": 101
+    },
+    {
+      "id": 4293368,
+      "inv_part_id": 4293368,
+      "part": {
+        "part_num": "6266",
+        "name": "Leg Skeleton",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/6266/leg-skeleton/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6038450.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6266"
+          ],
+          "BrickOwl": [
+            "601164"
+          ],
+          "Brickset": [
+            "31733",
+            "6266"
+          ],
+          "LDraw": [
+            "6266"
+          ],
+          "LEGO": [
+            "31733",
+            "6266"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-005285",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "626601",
+      "num_sets": 228
+    },
+    {
+      "id": 4293366,
+      "inv_part_id": 4293366,
+      "part": {
+        "part_num": "30048",
+        "name": "Helmet, Conquistador",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/30048/helmet-conquistador/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/3004826.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30048"
+          ],
+          "BrickOwl": [
+            "929091"
+          ],
+          "Brickset": [
+            "10836",
+            "30048"
+          ],
+          "LDraw": [
+            "30048"
+          ],
+          "LEGO": [
+            "10836",
+            "30048"
+          ],
+          "Peeron": [
+            "x44"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-005285",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4530710",
+      "num_sets": 13
+    },
+    {
+      "id": 4293369,
+      "inv_part_id": 4293369,
+      "part": {
+        "part_num": "6265",
+        "name": "Arm Skeleton",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/6265/arm-skeleton/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4142875.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6265"
+          ],
+          "BrickOwl": [
+            "317303"
+          ],
+          "Brickset": [
+            "6265"
+          ],
+          "LDraw": [
+            "6265"
+          ],
+          "LEGO": [
+            "6265"
+          ],
+          "Peeron": [
+            "6260c01"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-005285",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "626501",
+      "num_sets": 77
+    },
+    {
+      "id": 4300067,
+      "inv_part_id": 4300067,
+      "part": {
+        "part_num": "970c28",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c28/hips-and-blue-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c07"
+          ],
+          "BrickOwl": [
+            "851096"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "fig-005540",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "9341",
+      "num_sets": 899
+    },
+    {
+      "id": 4300070,
+      "inv_part_id": 4300070,
+      "part": {
+        "part_num": "3626bpr0298",
+        "name": "Minifig Head Cowboy / Pirate, Moustache, Stubble and Bald Hair Part Print [Blocked Open Stud]",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0298/minifig-head-cowboy-pirate-moustache-stubble-and-bald-hair-part-print-blocked-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bpw9.png",
+        "external_ids": {
+          "BrickLink": [
+            "3626px108"
+          ],
+          "BrickOwl": [
+            "123820"
+          ],
+          "LDraw": [
+            "3626bpw9"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-005540",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 8
+    },
+    {
+      "id": 4300068,
+      "inv_part_id": 4300068,
+      "part": {
+        "part_num": "2543",
+        "name": "Hat Rag Wrap / Bandana",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/2543/hat-rag-wrap-bandana/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/254321.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "x70"
+          ],
+          "BrickOwl": [
+            "320212"
+          ],
+          "Brickset": [
+            "2543",
+            "90256"
+          ],
+          "LDraw": [
+            "2543"
+          ],
+          "LEGO": [
+            "2543",
+            "90256"
+          ],
+          "Peeron": [
+            "x70"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-005540",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4631561",
+      "num_sets": 67
+    },
+    {
+      "id": 4300069,
+      "inv_part_id": 4300069,
+      "part": {
+        "part_num": "973c27h01pr0007",
+        "name": "Torso Green Vest, Open Shirt, and Black Crossbelt Print, White Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c27h01pr0007/torso-green-vest-open-shirt-and-black-crossbelt-print-white-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973c27h01pr0007-15-9fb349e9-0491-4f0b-b77e-688fc7d01edd.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973p3cc01"
+          ],
+          "BrickOwl": [
+            "105335"
+          ],
+          "LDraw": [
+            "76382p3c"
+          ]
+        },
+        "print_of": "973c27h01"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-005540",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 7
+    }
+  ]
+}

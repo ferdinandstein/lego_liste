@@ -1,0 +1,504 @@
+{
+  "count": 12,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 20785,
+      "inv_part_id": 20785,
+      "part": {
+        "part_num": "42445",
+        "name": "Bar 1 x 12 with 1 x 2 Plate End with Solid Studs and 1 x 1 Round Plate End",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/42445/bar-1-x-12-with-1-x-2-plate-end-with-solid-studs-and-1-x-1-round-plate-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4169052.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "42445"
+          ],
+          "BrickOwl": [
+            "817103"
+          ],
+          "Brickset": [
+            "42445",
+            "49546"
+          ],
+          "LDraw": [
+            "42445"
+          ],
+          "LEGO": [
+            "42445",
+            "49546"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4169052",
+      "num_sets": 4
+    },
+    {
+      "id": 614567,
+      "inv_part_id": 614567,
+      "part": {
+        "part_num": "6187",
+        "name": "Bar 1 x 4 x 2",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/6187/bar-1-x-4-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4141349.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6187"
+          ],
+          "BrickOwl": [
+            "661187"
+          ],
+          "Brickset": [
+            "6187"
+          ],
+          "LDraw": [
+            "6187"
+          ],
+          "LEGO": [
+            "6187"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "618726",
+      "num_sets": 76
+    },
+    {
+      "id": 294525,
+      "inv_part_id": 294525,
+      "part": {
+        "part_num": "42511",
+        "name": "Sports Skateboard with Trolley Wheel Holders",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/42511/sports-skateboard-with-trolley-wheel-holders/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4169425.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "42511"
+          ],
+          "BrickOwl": [
+            "835465"
+          ],
+          "Brickset": [
+            "42511",
+            "88422"
+          ],
+          "LDraw": [
+            "42511",
+            "88422"
+          ],
+          "LEGO": [
+            "42511",
+            "88422"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4169425",
+      "num_sets": 5
+    },
+    {
+      "id": 99973,
+      "inv_part_id": 99973,
+      "part": {
+        "part_num": "2496",
+        "name": "Wheel Skateboard / Trolley",
+        "part_cat_id": 29,
+        "part_url": "https://rebrickable.com/parts/2496/wheel-skateboard-trolley/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2496"
+          ],
+          "BrickOwl": [
+            "857066"
+          ],
+          "Brickset": [
+            "2496",
+            "88423"
+          ],
+          "LDraw": [
+            "2496"
+          ],
+          "LEGO": [
+            "2496",
+            "88423"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6223673",
+      "num_sets": 425
+    },
+    {
+      "id": 785989,
+      "inv_part_id": 785989,
+      "part": {
+        "part_num": "42445",
+        "name": "Bar 1 x 12 with 1 x 2 Plate End with Solid Studs and 1 x 1 Round Plate End",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/42445/bar-1-x-12-with-1-x-2-plate-end-with-solid-studs-and-1-x-1-round-plate-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4169052.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "42445"
+          ],
+          "BrickOwl": [
+            "817103"
+          ],
+          "Brickset": [
+            "42445",
+            "49546"
+          ],
+          "LDraw": [
+            "42445"
+          ],
+          "LEGO": [
+            "42445",
+            "49546"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4169052",
+      "num_sets": 4
+    },
+    {
+      "id": 493594,
+      "inv_part_id": 493594,
+      "part": {
+        "part_num": "3939",
+        "name": "Slope 33\u00b0 3 x 6",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3939/slope-33-3-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4214083.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3939"
+          ],
+          "BrickOwl": [
+            "866010"
+          ],
+          "Brickset": [
+            "3939",
+            "6208"
+          ],
+          "LDraw": [
+            "6208"
+          ],
+          "LEGO": [
+            "3939",
+            "6208"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4214083",
+      "num_sets": 2
+    },
+    {
+      "id": 501512,
+      "inv_part_id": 501512,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306926.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3069"
+          ],
+          "BrickOwl": [
+            "487300"
+          ],
+          "Brickset": [
+            "30070",
+            "3069",
+            "35386",
+            "37293",
+            "45880",
+            "54285",
+            "63286"
+          ],
+          "LDraw": [
+            "3069b"
+          ],
+          "LEGO": [
+            "15598",
+            "30070",
+            "3069",
+            "35386",
+            "37293",
+            "45880",
+            "54285",
+            "59489",
+            "63286"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6731-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "306926",
+      "num_sets": 1235
+    },
+    {
+      "id": 4135290,
+      "inv_part_id": 4135290,
+      "part": {
+        "part_num": "42446",
+        "name": "Minifig Neckwear Bracket [One Stud]",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/42446/minifig-neckwear-bracket-one-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4169050.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "42446"
+          ],
+          "BrickOwl": [
+            "985917"
+          ],
+          "Brickset": [
+            "42446"
+          ],
+          "LDraw": [
+            "42446"
+          ],
+          "LEGO": [
+            "42446"
+          ],
+          "Peeron": [
+            "554",
+            "x226"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "fig-000738",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4169050",
+      "num_sets": 4
+    },
+    {
+      "id": 4135292,
+      "inv_part_id": 4135292,
+      "part": {
+        "part_num": "970c28pr0011",
+        "name": "Hips and Blue Legs with Silver Kneepads, Brown Belt Print (Pepper)",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c28pr0011/hips-and-blue-legs-with-silver-kneepads-brown-belt-print-pepper/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/1/970c00pb010-1-86988a73-2e14-4246-9995-cf99e26a2159.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00pb0010"
+          ],
+          "BrickOwl": [
+            "536065"
+          ],
+          "Brickset": [
+            "43065"
+          ],
+          "LEGO": [
+            "43065"
+          ]
+        },
+        "print_of": "970c28"
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "fig-000738",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4168888",
+      "num_sets": 9
+    },
+    {
+      "id": 4135294,
+      "inv_part_id": 4135294,
+      "part": {
+        "part_num": "4485",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/4485/hat-cap-long-peak-plain/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/448501.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4485"
+          ],
+          "BrickOwl": [
+            "665447"
+          ],
+          "Brickset": [
+            "4485"
+          ],
+          "LDraw": [
+            "4485b"
+          ],
+          "LEGO": [
+            "4485"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "fig-000738",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4547253",
+      "num_sets": 103
+    },
+    {
+      "id": 4135293,
+      "inv_part_id": 4135293,
+      "part": {
+        "part_num": "3626bpr0216",
+        "name": "Minifig Head Pepper Roni / Soccer Player, Messy Red Hair, Smile, White Pupils Print [Blocked Open Stud]",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr0216/minifig-head-pepper-roni-soccer-player-messy-red-hair-smile-white-pupils-print-blocked-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4168995.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb0050"
+          ],
+          "BrickOwl": [
+            "325786"
+          ],
+          "Brickset": [
+            "42523"
+          ],
+          "LEGO": [
+            "42523"
+          ],
+          "Peeron": [
+            "3626bpx136"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-000738",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4168995",
+      "num_sets": 24
+    },
+    {
+      "id": 4135291,
+      "inv_part_id": 4135291,
+      "part": {
+        "part_num": "973c28h01pr0057",
+        "name": "Torso Shirt, Pizza with Slice Print (Pepper), Blue Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c28h01pr0057/torso-shirt-pizza-with-slice-print-pepper-blue-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973c28h01pr0057-4-e3133da2-bb6b-4cab-8f3c-0cb3f0ee23f8.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973pb0057c01"
+          ],
+          "BrickOwl": [
+            "819243"
+          ]
+        },
+        "print_of": "973c28h01"
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-000738",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4168998",
+      "num_sets": 9
+    }
+  ]
+}

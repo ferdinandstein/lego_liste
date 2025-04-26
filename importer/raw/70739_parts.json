@@ -1,0 +1,1598 @@
+{
+  "count": 38,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 114264,
+      "inv_part_id": 114264,
+      "part": {
+        "part_num": "99780",
+        "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/99780/bracket-1-x-2-1-x-2-inverted/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6020193.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "99780"
+          ],
+          "BrickOwl": [
+            "414759"
+          ],
+          "Brickset": [
+            "99780"
+          ],
+          "LDraw": [
+            "99780"
+          ],
+          "LEGO": [
+            "99780"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 3,
+      "is_spare": false,
+      "element_id": "6020193",
+      "num_sets": 607
+    },
+    {
+      "id": 511136,
+      "inv_part_id": 511136,
+      "part": {
+        "part_num": "43713",
+        "name": "Wedge Curved Inverted 6 x 4",
+        "part_cat_id": 6,
+        "part_url": "https://rebrickable.com/parts/43713/wedge-curved-inverted-6-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6096487.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "43713"
+          ],
+          "BrickOwl": [
+            "602775"
+          ],
+          "Brickset": [
+            "43713"
+          ],
+          "LDraw": [
+            "43713"
+          ],
+          "LEGO": [
+            "43713"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6096487",
+      "num_sets": 19
+    },
+    {
+      "id": 764943,
+      "inv_part_id": 764943,
+      "part": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300126.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3001"
+          ],
+          "BrickOwl": [
+            "771344"
+          ],
+          "Brickset": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ],
+          "LDraw": [
+            "3001"
+          ],
+          "LEGO": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "300126",
+      "num_sets": 1033
+    },
+    {
+      "id": 320772,
+      "inv_part_id": 320772,
+      "part": {
+        "part_num": "87087",
+        "name": "Brick Special 1 x 1 with Stud on 1 Side",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/87087/brick-special-1-x-1-with-stud-on-1-side/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4558954.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87087"
+          ],
+          "BrickOwl": [
+            "215571"
+          ],
+          "Brickset": [
+            "87087"
+          ],
+          "LDraw": [
+            "87087"
+          ],
+          "LEGO": [
+            "87087"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4558954",
+      "num_sets": 385
+    },
+    {
+      "id": 862850,
+      "inv_part_id": 862850,
+      "part": {
+        "part_num": "4733",
+        "name": "Brick Special 1 x 1 Studs on 4 Sides",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/4733/brick-special-1-x-1-studs-on-4-sides/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/473326.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4733"
+          ],
+          "BrickOwl": [
+            "14440"
+          ],
+          "Brickset": [
+            "4733"
+          ],
+          "LDraw": [
+            "4733"
+          ],
+          "LEGO": [
+            "4733"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "473326",
+      "num_sets": 327
+    },
+    {
+      "id": 54494,
+      "inv_part_id": 54494,
+      "part": {
+        "part_num": "64644",
+        "name": "Equipment Telescope / Torch / Spyglass, Support Round 1 x 1 x 1 2/3",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/64644/equipment-telescope-torch-spyglass-support-round-1-x-1-x-1-23/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4538950.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "64644"
+          ],
+          "BrickOwl": [
+            "90664"
+          ],
+          "Brickset": [
+            "64644"
+          ],
+          "LDraw": [
+            "64644"
+          ],
+          "LEGO": [
+            "64644"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 308,
+        "name": "Dark Brown",
+        "rgb": "352100",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4538950",
+      "num_sets": 221
+    },
+    {
+      "id": 735451,
+      "inv_part_id": 735451,
+      "part": {
+        "part_num": "18592",
+        "name": "Propeller 3 Blade 13 Diameter",
+        "part_cat_id": 35,
+        "part_url": "https://rebrickable.com/parts/18592/propeller-3-blade-13-diameter/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6121338.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "18592"
+          ],
+          "BrickOwl": [
+            "26642"
+          ],
+          "Brickset": [
+            "18592"
+          ],
+          "LEGO": [
+            "18592"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6199788",
+      "num_sets": 2
+    },
+    {
+      "id": 2001031,
+      "inv_part_id": 2001031,
+      "part": {
+        "part_num": "64567",
+        "name": "Weapon Lightsaber Hilt with Bottom Ring",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/64567/weapon-lightsaber-hilt-with-bottom-ring/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6003147.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "64567"
+          ],
+          "BrickOwl": [
+            "459306"
+          ],
+          "Brickset": [
+            "15556",
+            "64567",
+            "86132"
+          ],
+          "LDraw": [
+            "577b",
+            "64567a"
+          ],
+          "LEGO": [
+            "15556",
+            "64567",
+            "86132"
+          ],
+          "Peeron": [
+            "577"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6003147",
+      "num_sets": 167
+    },
+    {
+      "id": 307197,
+      "inv_part_id": 307197,
+      "part": {
+        "part_num": "3021",
+        "name": "Plate 2 x 3",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3021/plate-2-x-3/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211043.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3021"
+          ],
+          "BrickOwl": [
+            "960521"
+          ],
+          "Brickset": [
+            "3021"
+          ],
+          "LDraw": [
+            "3021"
+          ],
+          "LEGO": [
+            "3021"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4211043",
+      "num_sets": 995
+    },
+    {
+      "id": 895336,
+      "inv_part_id": 895336,
+      "part": {
+        "part_num": "11439pat0001",
+        "name": "Weapon Sword with Jagged Edges and Trans Red Center",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/11439pat0001/weapon-sword-with-jagged-edges-and-trans-red-center/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6020758.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "11439pb03"
+          ],
+          "BrickOwl": [
+            "885194"
+          ],
+          "Brickset": [
+            "11439"
+          ],
+          "LDraw": [
+            "11439p03"
+          ],
+          "LEGO": [
+            "11439"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 46,
+        "name": "Trans-Yellow",
+        "rgb": "F5CD2F",
+        "is_trans": true
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6020758",
+      "num_sets": 7
+    },
+    {
+      "id": 2001030,
+      "inv_part_id": 2001030,
+      "part": {
+        "part_num": "53451",
+        "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/53451/animal-body-part-barb-claw-tooth-talon-horn-small/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4618195.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53451"
+          ],
+          "BrickOwl": [
+            "899897"
+          ],
+          "Brickset": [
+            "53451",
+            "88513"
+          ],
+          "LDraw": [
+            "53451"
+          ],
+          "LEGO": [
+            "53451",
+            "88513"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6270109",
+      "num_sets": 120
+    },
+    {
+      "id": 197756,
+      "inv_part_id": 197756,
+      "part": {
+        "part_num": "93058b",
+        "name": "Weapon Throwing Star / Shuriken with Textured Grips",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/93058b/weapon-throwing-star-shuriken-with-textured-grips/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/297/93058b-297-09980ab6-a527-4ae6-b2c7-f48ff3ac4044.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "19807a"
+          ],
+          "BrickOwl": [
+            "711877"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 49
+    },
+    {
+      "id": 86431,
+      "inv_part_id": 86431,
+      "part": {
+        "part_num": "15712",
+        "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+        "part_cat_id": 15,
+        "part_url": "https://rebrickable.com/parts/15712/tile-special-1-x-1-with-clip-with-rounded-edges/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6066102.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "15712"
+          ],
+          "BrickOwl": [
+            "859237"
+          ],
+          "Brickset": [
+            "15712",
+            "44842"
+          ],
+          "LDraw": [
+            "15712"
+          ],
+          "LEGO": [
+            "15712",
+            "44842"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6335388",
+      "num_sets": 646
+    },
+    {
+      "id": 483808,
+      "inv_part_id": 483808,
+      "part": {
+        "part_num": "18590",
+        "name": "Gearwheel 8 Tooth with Pin Holes and Flywheel Recess (Ninjago) [Short Shaft]",
+        "part_cat_id": 26,
+        "part_url": "https://rebrickable.com/parts/18590/gearwheel-8-tooth-with-pin-holes-and-flywheel-recess-ninjago-short-shaft/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6110044.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "18590"
+          ],
+          "BrickOwl": [
+            "326066"
+          ],
+          "Brickset": [
+            "18590"
+          ],
+          "LDraw": [
+            "18590"
+          ],
+          "LEGO": [
+            "18590"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6210763",
+      "num_sets": 15
+    },
+    {
+      "id": 921002,
+      "inv_part_id": 921002,
+      "part": {
+        "part_num": "18585",
+        "name": "Brick Special 2 x 4 with Pin Holes and Flywheel Socket [Airjitzu]",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/18585/brick-special-2-x-4-with-pin-holes-and-flywheel-socket-airjitzu/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6110042.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "18585"
+          ],
+          "BrickOwl": [
+            "501561"
+          ],
+          "Brickset": [
+            "18585"
+          ],
+          "LDraw": [
+            "18585"
+          ],
+          "LEGO": [
+            "18585"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6210749",
+      "num_sets": 20
+    },
+    {
+      "id": 779790,
+      "inv_part_id": 779790,
+      "part": {
+        "part_num": "14769pr1026",
+        "name": "Tile Round 2 x 2 with Bottom Stud Holder with Airjitzu Fire Symbol Print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/14769pr1026/tile-round-2-x-2-with-bottom-stud-holder-with-airjitzu-fire-symbol-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6115732.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "14769pb065"
+          ],
+          "BrickOwl": [
+            "832529"
+          ],
+          "Brickset": [
+            "21304"
+          ],
+          "LEGO": [
+            "21304"
+          ]
+        },
+        "print_of": "14769"
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6115732",
+      "num_sets": 3
+    },
+    {
+      "id": 364122,
+      "inv_part_id": 364122,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4144413.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30602"
+          ],
+          "BrickOwl": [
+            "457645"
+          ],
+          "Brickset": [
+            "28659",
+            "30602",
+            "47904",
+            "4973",
+            "54415"
+          ],
+          "LDraw": [
+            "30602"
+          ],
+          "LEGO": [
+            "28659",
+            "30602",
+            "47904",
+            "4973",
+            "54415"
+          ],
+          "Peeron": [
+            "47904"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6247388",
+      "num_sets": 46
+    },
+    {
+      "id": 429158,
+      "inv_part_id": 429158,
+      "part": {
+        "part_num": "98141",
+        "name": "Weapon Scythe / Crescent Blade Serrated with Bar",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/98141/weapon-scythe-crescent-blade-serrated-with-bar/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4646871.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98141"
+          ],
+          "BrickOwl": [
+            "609423"
+          ],
+          "Brickset": [
+            "98141"
+          ],
+          "LDraw": [
+            "98141"
+          ],
+          "LEGO": [
+            "98141"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6270138",
+      "num_sets": 54
+    },
+    {
+      "id": 104684,
+      "inv_part_id": 104684,
+      "part": {
+        "part_num": "21459",
+        "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/21459/weapon-sword-katana-shamshir-with-capped-pommel-square-guard/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6116596.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "21459"
+          ],
+          "BrickOwl": [
+            "263353",
+            "7566"
+          ],
+          "Brickset": [
+            "21459"
+          ],
+          "LDraw": [
+            "21459"
+          ],
+          "LEGO": [
+            "21459"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6116596",
+      "num_sets": 187
+    },
+    {
+      "id": 71483,
+      "inv_part_id": 71483,
+      "part": {
+        "part_num": "6126b",
+        "name": "Wave / Flame Rounded with Base Rim",
+        "part_cat_id": 69,
+        "part_url": "https://rebrickable.com/parts/6126b/wave-flame-rounded-with-base-rim/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4261397.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6126b"
+          ],
+          "BrickOwl": [
+            "184940"
+          ],
+          "Brickset": [
+            "28618",
+            "6126"
+          ],
+          "LDraw": [
+            "28618",
+            "6126b"
+          ],
+          "LEGO": [
+            "28618",
+            "6126"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 182,
+        "name": "Trans-Orange",
+        "rgb": "F08F1C",
+        "is_trans": true
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6167741",
+      "num_sets": 297
+    },
+    {
+      "id": 895517,
+      "inv_part_id": 895517,
+      "part": {
+        "part_num": "93055",
+        "name": "Weapon Sword Katana with Dragon Guard (The Sword of Fire)",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/93055/weapon-sword-katana-with-dragon-guard-the-sword-of-fire/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4626501.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "93055"
+          ],
+          "BrickOwl": [
+            "850123"
+          ],
+          "Brickset": [
+            "93055"
+          ],
+          "LDraw": [
+            "93055"
+          ],
+          "LEGO": [
+            "93055"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6096099",
+      "num_sets": 26
+    },
+    {
+      "id": 2001032,
+      "inv_part_id": 2001032,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4523159.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4523159",
+      "num_sets": 594
+    },
+    {
+      "id": 604461,
+      "inv_part_id": 604461,
+      "part": {
+        "part_num": "18591",
+        "name": "Windscreen 4 x 4 x 5 Cone with Pins",
+        "part_cat_id": 47,
+        "part_url": "https://rebrickable.com/parts/18591/windscreen-4-x-4-x-5-cone-with-pins/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6108477.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "18591"
+          ],
+          "BrickOwl": [
+            "369697"
+          ],
+          "Brickset": [
+            "18591"
+          ],
+          "LDraw": [
+            "18591"
+          ],
+          "LEGO": [
+            "18591"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 47,
+        "name": "Trans-Clear",
+        "rgb": "FCFCFC",
+        "is_trans": true
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6210747",
+      "num_sets": 20
+    },
+    {
+      "id": 386672,
+      "inv_part_id": 386672,
+      "part": {
+        "part_num": "43712",
+        "name": "Wedge Curved 6 x 4 Triple",
+        "part_cat_id": 6,
+        "part_url": "https://rebrickable.com/parts/43712/wedge-curved-6-x-4-triple/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4180480.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "43712"
+          ],
+          "BrickOwl": [
+            "519334"
+          ],
+          "Brickset": [
+            "43712"
+          ],
+          "LDraw": [
+            "43712"
+          ],
+          "LEGO": [
+            "43712"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6409628",
+      "num_sets": 24
+    },
+    {
+      "id": 57902,
+      "inv_part_id": 57902,
+      "part": {
+        "part_num": "99781",
+        "name": "Bracket 1 x 2 - 1 x 2",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/99781/bracket-1-x-2-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6016172.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "99781"
+          ],
+          "BrickOwl": [
+            "151397"
+          ],
+          "Brickset": [
+            "99781"
+          ],
+          "LDraw": [
+            "99781"
+          ],
+          "LEGO": [
+            "99781"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 3,
+      "is_spare": false,
+      "element_id": "6016172",
+      "num_sets": 441
+    },
+    {
+      "id": 81546,
+      "inv_part_id": 81546,
+      "part": {
+        "part_num": "16965",
+        "name": "Rip Cord Flexible with Handle Thick",
+        "part_cat_id": 56,
+        "part_url": "https://rebrickable.com/parts/16965/rip-cord-flexible-with-handle-thick/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6109891.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "16965"
+          ],
+          "BrickOwl": [
+            "12318"
+          ],
+          "Brickset": [
+            "16965"
+          ],
+          "LDraw": [
+            "16965"
+          ],
+          "LEGO": [
+            "16965"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6289760",
+      "num_sets": 23
+    },
+    {
+      "id": 386877,
+      "inv_part_id": 386877,
+      "part": {
+        "part_num": "6141",
+        "name": "Plate Round 1 x 1 with Solid Stud",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/6141/plate-round-1-x-1-with-solid-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4523159.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4073"
+          ],
+          "BrickOwl": [
+            "961948"
+          ],
+          "Brickset": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "6141"
+          ],
+          "LDraw": [
+            "4073",
+            "6141"
+          ],
+          "LEGO": [
+            "15570",
+            "30057",
+            "34823",
+            "39799",
+            "44325",
+            "51809",
+            "6141"
+          ],
+          "Peeron": [
+            "4073"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4523159",
+      "num_sets": 594
+    },
+    {
+      "id": 850349,
+      "inv_part_id": 850349,
+      "part": {
+        "part_num": "85975",
+        "name": "Cone 1.17 x 1.17 x 2/3 (Fez)",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/85975/cone-117-x-117-x-23-fez/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6062600.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "85975"
+          ],
+          "BrickOwl": [
+            "34625"
+          ],
+          "Brickset": [
+            "29175",
+            "85975"
+          ],
+          "LDraw": [
+            "85975"
+          ],
+          "LEGO": [
+            "29175",
+            "85975"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6173143",
+      "num_sets": 34
+    },
+    {
+      "id": 634451,
+      "inv_part_id": 634451,
+      "part": {
+        "part_num": "53451",
+        "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/53451/animal-body-part-barb-claw-tooth-talon-horn-small/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4618195.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53451"
+          ],
+          "BrickOwl": [
+            "899897"
+          ],
+          "Brickset": [
+            "53451",
+            "88513"
+          ],
+          "LDraw": [
+            "53451"
+          ],
+          "LEGO": [
+            "53451",
+            "88513"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6270109",
+      "num_sets": 120
+    },
+    {
+      "id": 368874,
+      "inv_part_id": 368874,
+      "part": {
+        "part_num": "98138",
+        "name": "Tile Round 1 x 1",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138/tile-round-1-x-1/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4649422.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98138"
+          ],
+          "BrickOwl": [
+            "474589"
+          ],
+          "Brickset": [
+            "35380",
+            "35381",
+            "39797",
+            "98138"
+          ],
+          "LDraw": [
+            "98138"
+          ],
+          "LEGO": [
+            "35380",
+            "35381",
+            "39797",
+            "98138"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6238891",
+      "num_sets": 102
+    },
+    {
+      "id": 2001033,
+      "inv_part_id": 2001033,
+      "part": {
+        "part_num": "98138",
+        "name": "Tile Round 1 x 1",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138/tile-round-1-x-1/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4649422.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98138"
+          ],
+          "BrickOwl": [
+            "474589"
+          ],
+          "Brickset": [
+            "35380",
+            "35381",
+            "39797",
+            "98138"
+          ],
+          "LDraw": [
+            "98138"
+          ],
+          "LEGO": [
+            "35380",
+            "35381",
+            "39797",
+            "98138"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6238891",
+      "num_sets": 102
+    },
+    {
+      "id": 820346,
+      "inv_part_id": 820346,
+      "part": {
+        "part_num": "64567",
+        "name": "Weapon Lightsaber Hilt with Bottom Ring",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/64567/weapon-lightsaber-hilt-with-bottom-ring/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6003147.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "64567"
+          ],
+          "BrickOwl": [
+            "459306"
+          ],
+          "Brickset": [
+            "15556",
+            "64567",
+            "86132"
+          ],
+          "LDraw": [
+            "577b",
+            "64567a"
+          ],
+          "LEGO": [
+            "15556",
+            "64567",
+            "86132"
+          ],
+          "Peeron": [
+            "577"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6003147",
+      "num_sets": 167
+    },
+    {
+      "id": 601469,
+      "inv_part_id": 601469,
+      "part": {
+        "part_num": "14769",
+        "name": "Tile Round 2 x 2 with Bottom Stud Holder",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/14769/tile-round-2-x-2-with-bottom-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6066345.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "14769"
+          ],
+          "BrickOwl": [
+            "333997"
+          ],
+          "Brickset": [
+            "14769",
+            "83056"
+          ],
+          "LDraw": [
+            "14769"
+          ],
+          "LEGO": [
+            "14769",
+            "83056"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6066345",
+      "num_sets": 115
+    },
+    {
+      "id": 67493,
+      "inv_part_id": 67493,
+      "part": {
+        "part_num": "2654",
+        "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/2654/plate-round-2-x-2-with-rounded-bottom-boat-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/265421.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2654"
+          ],
+          "BrickOwl": [
+            "243161"
+          ],
+          "Brickset": [
+            "2654",
+            "28558",
+            "54196",
+            "93791"
+          ],
+          "LDraw": [
+            "2654a"
+          ],
+          "LEGO": [
+            "2654",
+            "28558",
+            "54196",
+            "93791"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "70739-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4617080",
+      "num_sets": 183
+    },
+    {
+      "id": 4138213,
+      "inv_part_id": 4138213,
+      "part": {
+        "part_num": "973c22h22pr3021",
+        "name": "Torso Gold and White Energy with Asian Character Print, Red Arms and Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c22h22pr3021/torso-gold-and-white-energy-with-asian-character-print-red-arms-and-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6115582.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973pb2160c01"
+          ],
+          "BrickOwl": [
+            "464579"
+          ],
+          "Brickset": [
+            "76382"
+          ],
+          "LEGO": [
+            "76382"
+          ]
+        },
+        "print_of": "973c22h22"
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-001391",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6115582",
+      "num_sets": 1
+    },
+    {
+      "id": 4138211,
+      "inv_part_id": 4138211,
+      "part": {
+        "part_num": "970c03pr0861",
+        "name": "Hips and Black Legs with Red and Gold Flames",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c03pr0861/hips-and-black-legs-with-red-and-gold-flames/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6115668.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00pb0465"
+          ],
+          "BrickOwl": [
+            "390332"
+          ],
+          "Brickset": [
+            "21295"
+          ],
+          "LEGO": [
+            "21295"
+          ]
+        },
+        "print_of": "970c03"
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-001391",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6115668",
+      "num_sets": 1
+    },
+    {
+      "id": 4138214,
+      "inv_part_id": 4138214,
+      "part": {
+        "part_num": "3626cpr1678",
+        "name": "Minifig Head Kai, Gold Eyebrows, Mouth and Eyes, Dark Red and Gold Flames Print [Hollow Stud]",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626cpr1678/minifig-head-kai-gold-eyebrows-mouth-and-eyes-dark-red-and-gold-flames-print-hollow-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6115084.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb1447"
+          ],
+          "BrickOwl": [
+            "73429"
+          ],
+          "Brickset": [
+            "21174"
+          ],
+          "LEGO": [
+            "21174"
+          ]
+        },
+        "print_of": "3626c"
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-001391",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6115084",
+      "num_sets": 1
+    },
+    {
+      "id": 4138212,
+      "inv_part_id": 4138212,
+      "part": {
+        "part_num": "98133",
+        "name": "Wrap with Forehead Ridge",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/98133/wrap-with-forehead-ridge/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4646818.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98133"
+          ],
+          "BrickOwl": [
+            "489861"
+          ],
+          "Brickset": [
+            "98133"
+          ],
+          "LDraw": [
+            "98133"
+          ],
+          "LEGO": [
+            "98133"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-001391",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4646818",
+      "num_sets": 2
+    }
+  ]
+}

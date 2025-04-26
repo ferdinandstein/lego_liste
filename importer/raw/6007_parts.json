@@ -1,0 +1,603 @@
+{
+  "count": 15,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 583388,
+      "inv_part_id": 583388,
+      "part": {
+        "part_num": "6027",
+        "name": "Animal Body Part, Alligator / Crocodile / Dragon Upper Jaw / Dinosaur Tongue",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6027/animal-body-part-alligator-crocodile-dragon-upper-jaw-dinosaur-tongue/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6027.png",
+        "external_ids": {
+          "BrickLink": [
+            "6027"
+          ],
+          "BrickOwl": [
+            "820863"
+          ],
+          "Brickset": [
+            "6027"
+          ],
+          "LDraw": [
+            "6027"
+          ],
+          "LEGO": [
+            "6027"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4142626",
+      "num_sets": 5
+    },
+    {
+      "id": 159079,
+      "inv_part_id": 159079,
+      "part": {
+        "part_num": "6126a",
+        "name": "Wave / Flame Rounded with Base Pegs",
+        "part_cat_id": 69,
+        "part_url": "https://rebrickable.com/parts/6126a/wave-flame-rounded-with-base-pegs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+        "external_ids": {
+          "BrickLink": [
+            "6126"
+          ],
+          "BrickOwl": [
+            "197098"
+          ],
+          "Brickset": [
+            "6126"
+          ],
+          "LDraw": [
+            "6126a"
+          ],
+          "LEGO": [
+            "6126"
+          ],
+          "Peeron": [
+            "6126"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 57,
+        "name": "Trans-Neon Orange",
+        "rgb": "FF800D",
+        "is_trans": true
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 237
+    },
+    {
+      "id": 109481,
+      "inv_part_id": 109481,
+      "part": {
+        "part_num": "6133",
+        "name": "Creature Body Part, Dragon Wing",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6133/creature-body-part-dragon-wing/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106519.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6133"
+          ],
+          "BrickOwl": [
+            "956547"
+          ],
+          "Brickset": [
+            "30130",
+            "6133"
+          ],
+          "LDraw": [
+            "6133"
+          ],
+          "LEGO": [
+            "30130",
+            "6133"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 57,
+        "name": "Trans-Neon Orange",
+        "rgb": "FF800D",
+        "is_trans": true
+      },
+      "set_num": "6007-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4106519",
+      "num_sets": 16
+    },
+    {
+      "id": 630386,
+      "inv_part_id": 630386,
+      "part": {
+        "part_num": "6028",
+        "name": "Animal Body Part, Alligator / Crocodile / Dragon / Dinosaur Tail",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6028/animal-body-part-alligator-crocodile-dragon-dinosaur-tail/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6028.png",
+        "external_ids": {
+          "BrickLink": [
+            "6028"
+          ],
+          "BrickOwl": [
+            "138900"
+          ],
+          "Brickset": [
+            "6028"
+          ],
+          "LDraw": [
+            "6028"
+          ],
+          "LEGO": [
+            "6028"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4142627",
+      "num_sets": 5
+    },
+    {
+      "id": 495859,
+      "inv_part_id": 495859,
+      "part": {
+        "part_num": "30103",
+        "name": "Animal, Bat",
+        "part_cat_id": 28,
+        "part_url": "https://rebrickable.com/parts/30103/animal-bat/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4106513.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30103"
+          ],
+          "BrickOwl": [
+            "222578"
+          ],
+          "Brickset": [
+            "30103",
+            "90394"
+          ],
+          "LDraw": [
+            "30103"
+          ],
+          "LEGO": [
+            "30103",
+            "90394"
+          ],
+          "Peeron": [
+            "x38"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4587312",
+      "num_sets": 117
+    },
+    {
+      "id": 291567,
+      "inv_part_id": 291567,
+      "part": {
+        "part_num": "6128",
+        "name": "Animal / Creature Body Part, Dinosaur / Dragon  Arm, Left",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6128/animal-creature-body-part-dinosaur-dragon-arm-left/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6128.png",
+        "external_ids": {
+          "BrickLink": [
+            "6128"
+          ],
+          "BrickOwl": [
+            "803474"
+          ],
+          "Brickset": [
+            "6128"
+          ],
+          "LDraw": [
+            "6128"
+          ],
+          "LEGO": [
+            "6128"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4106518",
+      "num_sets": 9
+    },
+    {
+      "id": 3148856,
+      "inv_part_id": 3148856,
+      "part": {
+        "part_num": "6129c01",
+        "name": "Creature Body Part, Dragon Body [Plain]",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6129c01/creature-body-part-dragon-body-plain/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/75174.png",
+        "external_ids": {
+          "BrickLink": [
+            "6129c01"
+          ],
+          "BrickOwl": [
+            "466241"
+          ],
+          "LDraw": [
+            "75174"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4190251",
+      "num_sets": 5
+    },
+    {
+      "id": 321973,
+      "inv_part_id": 321973,
+      "part": {
+        "part_num": "6127",
+        "name": "Animal / Creature Body Part, Dinosaur / Dragon Arm, Right",
+        "part_cat_id": 75,
+        "part_url": "https://rebrickable.com/parts/6127/animal-creature-body-part-dinosaur-dragon-arm-right/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6127.png",
+        "external_ids": {
+          "BrickLink": [
+            "6127"
+          ],
+          "BrickOwl": [
+            "952468"
+          ],
+          "Brickset": [
+            "6127"
+          ],
+          "LDraw": [
+            "6127"
+          ],
+          "LEGO": [
+            "6127"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4106517",
+      "num_sets": 9
+    },
+    {
+      "id": 57707,
+      "inv_part_id": 57707,
+      "part": {
+        "part_num": "59",
+        "name": "Weapon Sword / Greatsword Round",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/59/weapon-sword-greatsword-round/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4649842.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "59"
+          ],
+          "BrickOwl": [
+            "962576"
+          ],
+          "Brickset": [
+            "44493",
+            "71014",
+            "99232"
+          ],
+          "LDraw": [
+            "59"
+          ],
+          "LEGO": [
+            "44493",
+            "71014",
+            "99232"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 383,
+        "name": "Chrome Silver",
+        "rgb": "E0E0E0",
+        "is_trans": false
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "71014",
+      "num_sets": 46
+    },
+    {
+      "id": 644228,
+      "inv_part_id": 644228,
+      "part": {
+        "part_num": "3957a",
+        "name": "Antenna 1 x 4 with Rounded Top",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/3957a/antenna-1-x-4-with-rounded-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6065498.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3957"
+          ],
+          "BrickOwl": [
+            "239363"
+          ],
+          "Brickset": [
+            "30064",
+            "3957",
+            "54413"
+          ],
+          "LDraw": [
+            "3957a"
+          ],
+          "LEGO": [
+            "30064",
+            "3957",
+            "54413"
+          ],
+          "Peeron": [
+            "3957"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 36,
+        "name": "Trans-Red",
+        "rgb": "C91A09",
+        "is_trans": true
+      },
+      "set_num": "6007-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6065498",
+      "num_sets": 47
+    },
+    {
+      "id": 4134861,
+      "inv_part_id": 4134861,
+      "part": {
+        "part_num": "973c03h01pr0125",
+        "name": "Torso Bat Lord Tunic Print (Fright Knights), Black Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c03h01pr0125/torso-bat-lord-tunic-print-fright-knights-black-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973px125c01-4-94f2dd2e-f451-4c16-85f9-c26f12bc41af.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973px125c01"
+          ],
+          "BrickOwl": [
+            "319375"
+          ],
+          "LDraw": [
+            "76382p4i"
+          ]
+        },
+        "print_of": "973c03h01"
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-000648",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 9
+    },
+    {
+      "id": 4134862,
+      "inv_part_id": 4134862,
+      "part": {
+        "part_num": "30105",
+        "name": "Helmet with Bat Wings",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/30105/helmet-with-bat-wings/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/30105.png",
+        "external_ids": {
+          "BrickLink": [
+            "30105"
+          ],
+          "BrickOwl": [
+            "283710"
+          ],
+          "Brickset": [
+            "30105"
+          ],
+          "LDraw": [
+            "30105"
+          ],
+          "LEGO": [
+            "30105"
+          ],
+          "Peeron": [
+            "x183"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-000648",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4106514",
+      "num_sets": 10
+    },
+    {
+      "id": 4134858,
+      "inv_part_id": 4134858,
+      "part": {
+        "part_num": "3626bpr9966",
+        "name": "Minifig Head Bat Lord, Moustache Frown and Pointed Eyebrows and Hairline Print [Blocked Open Stud]",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626bpr9966/minifig-head-bat-lord-moustache-frown-and-pointed-eyebrows-and-hairline-print-blocked-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp4c.png",
+        "external_ids": {
+          "BrickLink": [
+            "3626px74"
+          ],
+          "BrickOwl": [
+            "852480"
+          ],
+          "LDraw": [
+            "3626bp4c"
+          ]
+        },
+        "print_of": "3626b"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-000648",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 9
+    },
+    {
+      "id": 4134859,
+      "inv_part_id": 4134859,
+      "part": {
+        "part_num": "71345pr0001",
+        "name": "Neckwear Cape, Scalloped 6 Points with Bat Print",
+        "part_cat_id": 71,
+        "part_url": "https://rebrickable.com/parts/71345pr0001/neckwear-cape-scalloped-6-points-with-bat-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/7/bb190pb01-7-6434deda-0b2e-4a10-885f-5b7402f94bc8.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "71345"
+          ],
+          "BrickOwl": [
+            "537325"
+          ]
+        },
+        "print_of": "71345"
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "fig-000648",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4106511",
+      "num_sets": 4
+    },
+    {
+      "id": 4134860,
+      "inv_part_id": 4134860,
+      "part": {
+        "part_num": "970c08",
+        "name": "Hips and Dark Gray Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c08/hips-and-dark-gray-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/8/970x026-8-77aac8fa-923d-44c0-8f1e-242358066537.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c10"
+          ],
+          "BrickOwl": [
+            "474554",
+            "863328"
+          ],
+          "Brickset": [
+            "73200"
+          ],
+          "LEGO": [
+            "73200"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "fig-000648",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4106521",
+      "num_sets": 24
+    }
+  ]
+}

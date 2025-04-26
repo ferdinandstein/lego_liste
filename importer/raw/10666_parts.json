@@ -1,0 +1,1814 @@
+{
+  "count": 43,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 575208,
+      "inv_part_id": 575208,
+      "part": {
+        "part_num": "2412b",
+        "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+        "part_cat_id": 15,
+        "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241224.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2412b"
+          ],
+          "BrickOwl": [
+            "363948"
+          ],
+          "Brickset": [
+            "15561",
+            "2412",
+            "30244",
+            "35248",
+            "51815",
+            "71957",
+            "78812"
+          ],
+          "LDraw": [
+            "2412b"
+          ],
+          "LEGO": [
+            "15561",
+            "2412",
+            "30244",
+            "35248",
+            "51815",
+            "71957",
+            "78812"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "393324",
+      "num_sets": 266
+    },
+    {
+      "id": 308923,
+      "inv_part_id": 308923,
+      "part": {
+        "part_num": "4083",
+        "name": "Bar 1 x 4 x 2 with Studs",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/4083/bar-1-x-4-x-2-with-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/408326.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4083"
+          ],
+          "BrickOwl": [
+            "998628"
+          ],
+          "Brickset": [
+            "4083"
+          ],
+          "LDraw": [
+            "4083"
+          ],
+          "LEGO": [
+            "4083"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "408326",
+      "num_sets": 177
+    },
+    {
+      "id": 145274,
+      "inv_part_id": 145274,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4653267.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 321,
+        "name": "Dark Azure",
+        "rgb": "078BC9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "4653267",
+      "num_sets": 40
+    },
+    {
+      "id": 822859,
+      "inv_part_id": 822859,
+      "part": {
+        "part_num": "3039",
+        "name": "Slope 45\u00b0 2 x 2",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303926.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3039"
+          ],
+          "BrickOwl": [
+            "822931"
+          ],
+          "Brickset": [
+            "3039",
+            "35277",
+            "6227",
+            "63341"
+          ],
+          "LDraw": [
+            "3039"
+          ],
+          "LEGO": [
+            "3039",
+            "35277",
+            "6227",
+            "63341"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "303926",
+      "num_sets": 629
+    },
+    {
+      "id": 308683,
+      "inv_part_id": 308683,
+      "part": {
+        "part_num": "87580",
+        "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/87580/plate-special-2-x-2-with-groove-and-center-stud-jumper/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4565322.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87580"
+          ],
+          "BrickOwl": [
+            "374469"
+          ],
+          "Brickset": [
+            "23893",
+            "87580",
+            "92569"
+          ],
+          "LDraw": [
+            "87580"
+          ],
+          "LEGO": [
+            "23893",
+            "87580",
+            "92569"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6126083",
+      "num_sets": 422
+    },
+    {
+      "id": 757198,
+      "inv_part_id": 757198,
+      "part": {
+        "part_num": "30395",
+        "name": "Hook with Towball",
+        "part_cat_id": 34,
+        "part_url": "https://rebrickable.com/parts/30395/hook-with-towball/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4212529.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30395"
+          ],
+          "BrickOwl": [
+            "863464"
+          ],
+          "Brickset": [
+            "30395",
+            "66904"
+          ],
+          "LDraw": [
+            "30395"
+          ],
+          "LEGO": [
+            "30395",
+            "66904"
+          ],
+          "Peeron": [
+            "x154"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6347464",
+      "num_sets": 251
+    },
+    {
+      "id": 162580,
+      "inv_part_id": 162580,
+      "part": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4247145.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3001"
+          ],
+          "BrickOwl": [
+            "771344"
+          ],
+          "Brickset": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ],
+          "LDraw": [
+            "3001"
+          ],
+          "LEGO": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4497066",
+      "num_sets": 88
+    },
+    {
+      "id": 483168,
+      "inv_part_id": 483168,
+      "part": {
+        "part_num": "4175",
+        "name": "Plate Special 1 x 2 with Ladder",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/4175/plate-special-1-x-2-with-ladder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211545.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4175"
+          ],
+          "BrickOwl": [
+            "171167"
+          ],
+          "Brickset": [
+            "31593",
+            "4175"
+          ],
+          "LDraw": [
+            "4175"
+          ],
+          "LEGO": [
+            "31593",
+            "4175"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6285243",
+      "num_sets": 56
+    },
+    {
+      "id": 765609,
+      "inv_part_id": 765609,
+      "part": {
+        "part_num": "30396",
+        "name": "Hinge 1 x 2 Locking with 2 Fingers and Towball Socket, 9 Teeth",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/30396/hinge-1-x-2-locking-with-2-fingers-and-towball-socket-9-teeth/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4144567.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30396"
+          ],
+          "BrickOwl": [
+            "745411"
+          ],
+          "Brickset": [
+            "30396"
+          ],
+          "LDraw": [
+            "30396"
+          ],
+          "LEGO": [
+            "30396"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4144567",
+      "num_sets": 46
+    },
+    {
+      "id": 808563,
+      "inv_part_id": 808563,
+      "part": {
+        "part_num": "3837",
+        "name": "Equipment Shovel [Rounded Handle End]",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/3837/equipment-shovel-rounded-handle-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211006.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3837"
+          ],
+          "BrickOwl": [
+            "731963"
+          ],
+          "Brickset": [
+            "3837"
+          ],
+          "LDraw": [
+            "3837"
+          ],
+          "LEGO": [
+            "3837"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4211006",
+      "num_sets": 204
+    },
+    {
+      "id": 380628,
+      "inv_part_id": 380628,
+      "part": {
+        "part_num": "6014b",
+        "name": "Wheel 11 x 12 with Hole Notched for Wheels Holder Pin",
+        "part_cat_id": 29,
+        "part_url": "https://rebrickable.com/parts/6014b/wheel-11-x-12-with-hole-notched-for-wheels-holder-pin/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4170460.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6014b"
+          ],
+          "BrickOwl": [
+            "192092"
+          ],
+          "Brickset": [
+            "6014"
+          ],
+          "LDraw": [
+            "6014b"
+          ],
+          "LEGO": [
+            "6014"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4170460",
+      "num_sets": 57
+    },
+    {
+      "id": 712570,
+      "inv_part_id": 712570,
+      "part": {
+        "part_num": "92280",
+        "name": "Plate Special 1 x 2 [Top Clip]",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/92280/plate-special-1-x-2-top-clip/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4598526.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "92280"
+          ],
+          "BrickOwl": [
+            "581961",
+            "596306"
+          ],
+          "Brickset": [
+            "44861",
+            "92280"
+          ],
+          "LDraw": [
+            "92280"
+          ],
+          "LEGO": [
+            "44861",
+            "92280"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4598526",
+      "num_sets": 400
+    },
+    {
+      "id": 459740,
+      "inv_part_id": 459740,
+      "part": {
+        "part_num": "47905",
+        "name": "Brick Special 1 x 1 with Studs on 2 Sides",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/47905/brick-special-1-x-1-with-studs-on-2-sides/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4213567.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "47905"
+          ],
+          "BrickOwl": [
+            "543599"
+          ],
+          "Brickset": [
+            "47905"
+          ],
+          "LDraw": [
+            "47905"
+          ],
+          "LEGO": [
+            "47905"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4213567",
+      "num_sets": 100
+    },
+    {
+      "id": 87980,
+      "inv_part_id": 87980,
+      "part": {
+        "part_num": "87697",
+        "name": "Tyre 21 x 12 with Offset Tread Small Wide and Center Band",
+        "part_cat_id": 29,
+        "part_url": "https://rebrickable.com/parts/87697/tyre-21-x-12-with-offset-tread-small-wide-and-center-band/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4568644.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87697"
+          ],
+          "BrickOwl": [
+            "814009"
+          ],
+          "Brickset": [
+            "87697"
+          ],
+          "LDraw": [
+            "87697"
+          ],
+          "LEGO": [
+            "87697"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4568644",
+      "num_sets": 333
+    },
+    {
+      "id": 566627,
+      "inv_part_id": 566627,
+      "part": {
+        "part_num": "30663",
+        "name": "Steering Wheel Small, 2 x 2",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/30663/steering-wheel-small-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211701.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30663"
+          ],
+          "BrickOwl": [
+            "95011"
+          ],
+          "Brickset": [
+            "30663"
+          ],
+          "LDraw": [
+            "30663"
+          ],
+          "LEGO": [
+            "30663"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4211701",
+      "num_sets": 67
+    },
+    {
+      "id": 200866,
+      "inv_part_id": 200866,
+      "part": {
+        "part_num": "93273",
+        "name": "Slope Curved 4 x 1 Double with No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/93273/slope-curved-4-x-1-double-with-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4613151.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "93273"
+          ],
+          "BrickOwl": [
+            "264231"
+          ],
+          "Brickset": [
+            "93273"
+          ],
+          "LDraw": [
+            "93273"
+          ],
+          "LEGO": [
+            "93273"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4613151",
+      "num_sets": 72
+    },
+    {
+      "id": 680561,
+      "inv_part_id": 680561,
+      "part": {
+        "part_num": "4006",
+        "name": "Tool Screwdriver and Spanner / Wrench",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/4006/tool-screwdriver-and-spanner-wrench/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/400626.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4006"
+          ],
+          "BrickOwl": [
+            "430817"
+          ],
+          "Brickset": [
+            "4006",
+            "88631"
+          ],
+          "LDraw": [
+            "4006"
+          ],
+          "LEGO": [
+            "4006",
+            "88631"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6034000",
+      "num_sets": 471
+    },
+    {
+      "id": 148060,
+      "inv_part_id": 148060,
+      "part": {
+        "part_num": "2431pr0017",
+        "name": "Tile 1 x 4 with Black Diagonal Stripes Print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431pr0017/tile-1-x-4-with-black-diagonal-stripes-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4119091.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2431p52"
+          ],
+          "BrickOwl": [
+            "454577"
+          ],
+          "Brickset": [
+            "83489"
+          ],
+          "LDraw": [
+            "2431p04"
+          ],
+          "LEGO": [
+            "83489"
+          ],
+          "Peeron": [
+            "2431bp52",
+            "2431p52"
+          ]
+        },
+        "print_of": "2431"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4119091",
+      "num_sets": 73
+    },
+    {
+      "id": 40860,
+      "inv_part_id": 40860,
+      "part": {
+        "part_num": "3022",
+        "name": "Plate 2 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3022/plate-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302224.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3022"
+          ],
+          "BrickOwl": [
+            "566026"
+          ],
+          "Brickset": [
+            "3022",
+            "94148"
+          ],
+          "LDraw": [
+            "3022",
+            "94148"
+          ],
+          "LEGO": [
+            "3022",
+            "94148"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4613978",
+      "num_sets": 912
+    },
+    {
+      "id": 401478,
+      "inv_part_id": 401478,
+      "part": {
+        "part_num": "3020",
+        "name": "Plate 2 x 4",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3020/plate-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211186.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3020"
+          ],
+          "BrickOwl": [
+            "80025"
+          ],
+          "Brickset": [
+            "3020",
+            "5584"
+          ],
+          "LDraw": [
+            "3020"
+          ],
+          "LEGO": [
+            "3020",
+            "5584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4211186",
+      "num_sets": 780
+    },
+    {
+      "id": 31734,
+      "inv_part_id": 31734,
+      "part": {
+        "part_num": "74698",
+        "name": "Tile Round 2 x 2 - Thick Lifting Ring",
+        "part_cat_id": 15,
+        "part_url": "https://rebrickable.com/parts/74698/tile-round-2-x-2-thick-lifting-ring/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6010831.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "74698"
+          ],
+          "BrickOwl": [
+            "663196"
+          ],
+          "Brickset": [
+            "74698"
+          ],
+          "LDraw": [
+            "74698"
+          ],
+          "LEGO": [
+            "74698"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6010831",
+      "num_sets": 115
+    },
+    {
+      "id": 172476,
+      "inv_part_id": 172476,
+      "part": {
+        "part_num": "30394",
+        "name": "Construction Vehicle Bucket 3 x 6 with 9 Hinge Teeth",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/30394/construction-vehicle-bucket-3-x-6-with-9-hinge-teeth/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4213649.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30394"
+          ],
+          "BrickOwl": [
+            "973331"
+          ],
+          "Brickset": [
+            "30394"
+          ],
+          "LDraw": [
+            "30394"
+          ],
+          "LEGO": [
+            "30394"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6023342",
+      "num_sets": 5
+    },
+    {
+      "id": 132279,
+      "inv_part_id": 132279,
+      "part": {
+        "part_num": "64450",
+        "name": "Roll Cage 6 x 4 x 3 1/3",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/64450/roll-cage-6-x-4-x-3-13/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4539385.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "64450"
+          ],
+          "BrickOwl": [
+            "355079"
+          ],
+          "Brickset": [
+            "31498",
+            "64450"
+          ],
+          "LDraw": [
+            "64450"
+          ],
+          "LEGO": [
+            "31498",
+            "64450"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6240526",
+      "num_sets": 56
+    },
+    {
+      "id": 319502,
+      "inv_part_id": 319502,
+      "part": {
+        "part_num": "3829c01",
+        "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/3829c01/steering-stand-1-x-2-with-black-steering-wheel/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/9566.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3829c01"
+          ],
+          "BrickOwl": [
+            "693844"
+          ],
+          "Brickset": [
+            "73081"
+          ],
+          "LDraw": [
+            "3829c01"
+          ],
+          "LEGO": [
+            "73081"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "9566",
+      "num_sets": 293
+    },
+    {
+      "id": 48880,
+      "inv_part_id": 48880,
+      "part": {
+        "part_num": "6126b",
+        "name": "Wave / Flame Rounded with Base Rim",
+        "part_cat_id": 69,
+        "part_url": "https://rebrickable.com/parts/6126b/wave-flame-rounded-with-base-rim/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6167739.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6126b"
+          ],
+          "BrickOwl": [
+            "184940"
+          ],
+          "Brickset": [
+            "28618",
+            "6126"
+          ],
+          "LDraw": [
+            "28618",
+            "6126b"
+          ],
+          "LEGO": [
+            "28618",
+            "6126"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 41,
+        "name": "Trans-Light Blue",
+        "rgb": "AEEFEC",
+        "is_trans": true
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6167739",
+      "num_sets": 106
+    },
+    {
+      "id": 831234,
+      "inv_part_id": 831234,
+      "part": {
+        "part_num": "92582",
+        "name": "Hinge Plate 2 x 2 Locking with 1 Finger on Top",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/92582/hinge-plate-2-x-2-locking-with-1-finger-on-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4666449.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "92582"
+          ],
+          "BrickOwl": [
+            "913887"
+          ],
+          "Brickset": [
+            "53968",
+            "92582"
+          ],
+          "LDraw": [
+            "92582"
+          ],
+          "LEGO": [
+            "53968",
+            "92582"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6265742",
+      "num_sets": 181
+    },
+    {
+      "id": 92479,
+      "inv_part_id": 92479,
+      "part": {
+        "part_num": "59900",
+        "name": "Cone 1 x 1 [Top Groove]",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/59900/cone-1-x-1-top-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4567341.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4589b"
+          ],
+          "BrickOwl": [
+            "583545"
+          ],
+          "Brickset": [
+            "15551",
+            "28701",
+            "55525",
+            "59900",
+            "64288"
+          ],
+          "LDraw": [
+            "59900"
+          ],
+          "LEGO": [
+            "15551",
+            "28701",
+            "55525",
+            "59900",
+            "64288"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 57,
+        "name": "Trans-Neon Orange",
+        "rgb": "FF800D",
+        "is_trans": true
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6301326",
+      "num_sets": 36
+    },
+    {
+      "id": 202560,
+      "inv_part_id": 202560,
+      "part": {
+        "part_num": "12622c03",
+        "name": "Vehicle Base 5 x 10 x 2 1/2 with Mudguards, Wheel Pins and 6 x 2 Centre Recess with 3 Holes, Black Wheel Holders",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/12622c03/vehicle-base-5-x-10-x-2-12-with-mudguards-wheel-pins-and-6-x-2-centre-recess-with-3-holes-black-wheel-holders/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6025012.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "11650c01"
+          ],
+          "BrickOwl": [
+            "256112",
+            "30494",
+            "635236"
+          ],
+          "Brickset": [
+            "103961",
+            "12622"
+          ],
+          "LDraw": [
+            "12622p02"
+          ],
+          "LEGO": [
+            "103961",
+            "12622"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6025012",
+      "num_sets": 15
+    },
+    {
+      "id": 684396,
+      "inv_part_id": 684396,
+      "part": {
+        "part_num": "3622",
+        "name": "Brick 1 x 3",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3622/brick-1-x-3/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/362224.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3622"
+          ],
+          "BrickOwl": [
+            "367537"
+          ],
+          "Brickset": [
+            "3622",
+            "45505"
+          ],
+          "LDraw": [
+            "3622",
+            "45505"
+          ],
+          "LEGO": [
+            "3622",
+            "45505"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "362224",
+      "num_sets": 401
+    },
+    {
+      "id": 426955,
+      "inv_part_id": 426955,
+      "part": {
+        "part_num": "60477",
+        "name": "Slope 18\u00b0 4 x 1",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/60477/slope-18-4-x-1/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515361.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "60477"
+          ],
+          "BrickOwl": [
+            "732276"
+          ],
+          "Brickset": [
+            "60477"
+          ],
+          "LDraw": [
+            "60477"
+          ],
+          "LEGO": [
+            "60477"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4656699",
+      "num_sets": 27
+    },
+    {
+      "id": 353425,
+      "inv_part_id": 353425,
+      "part": {
+        "part_num": "30386",
+        "name": "Hinge Brick 1 x 2 Locking with 1 Finger Vertical End and 2 Fingers Vertical End, 9 Teeth",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/30386/hinge-brick-1-x-2-locking-with-1-finger-vertical-end-and-2-fingers-vertical-end-9-teeth/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140704.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30386"
+          ],
+          "BrickOwl": [
+            "173157"
+          ],
+          "Brickset": [
+            "30386"
+          ],
+          "LDraw": [
+            "30386"
+          ],
+          "LEGO": [
+            "30386"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4140704",
+      "num_sets": 32
+    },
+    {
+      "id": 430904,
+      "inv_part_id": 430904,
+      "part": {
+        "part_num": "3002",
+        "name": "Brick 2 x 3",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3002/brick-2-x-3/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300221.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3002"
+          ],
+          "BrickOwl": [
+            "462227"
+          ],
+          "Brickset": [
+            "3002"
+          ],
+          "LDraw": [
+            "3002"
+          ],
+          "LEGO": [
+            "3002"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "300271",
+      "num_sets": 593
+    },
+    {
+      "id": 505312,
+      "inv_part_id": 505312,
+      "part": {
+        "part_num": "15068",
+        "name": "Slope Curved 2 x 2 x 2/3",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/15068/slope-curved-2-x-2-x-23/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6053077.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "15068"
+          ],
+          "BrickOwl": [
+            "593875"
+          ],
+          "Brickset": [
+            "15068",
+            "78565"
+          ],
+          "LDraw": [
+            "15068"
+          ],
+          "LEGO": [
+            "15068",
+            "78565"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6053077",
+      "num_sets": 556
+    },
+    {
+      "id": 364969,
+      "inv_part_id": 364969,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300324.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3003"
+          ],
+          "BrickOwl": [
+            "939628"
+          ],
+          "Brickset": [
+            "15591",
+            "3003",
+            "62404"
+          ],
+          "LDraw": [
+            "3003"
+          ],
+          "LEGO": [
+            "15591",
+            "3003",
+            "62404"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4103588",
+      "num_sets": 774
+    },
+    {
+      "id": 676002,
+      "inv_part_id": 676002,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4255416.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3003"
+          ],
+          "BrickOwl": [
+            "939628"
+          ],
+          "Brickset": [
+            "15591",
+            "3003",
+            "62404"
+          ],
+          "LDraw": [
+            "3003"
+          ],
+          "LEGO": [
+            "15591",
+            "3003",
+            "62404"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4497068",
+      "num_sets": 153
+    },
+    {
+      "id": 845746,
+      "inv_part_id": 845746,
+      "part": {
+        "part_num": "4079b",
+        "name": "Seat / Chair 2 x 2 with Center Sprue Mark",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/4079b/seat-chair-2-x-2-with-center-sprue-mark/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/70/4079b-70-ec18905d-b06c-460c-ae0c-d8cf5c8c5698.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4079"
+          ],
+          "BrickOwl": [
+            "58985"
+          ],
+          "Brickset": [
+            "4079"
+          ],
+          "LEGO": [
+            "4079"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 142
+    },
+    {
+      "id": 745347,
+      "inv_part_id": 745347,
+      "part": {
+        "part_num": "30387",
+        "name": "Hinge Brick 1 x 4 Locking with 1 Finger Vertical End and 2 Fingers Vertical End, 9 Teeth",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/30387/hinge-brick-1-x-4-locking-with-1-finger-vertical-end-and-2-fingers-vertical-end-9-teeth/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140705.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30387"
+          ],
+          "BrickOwl": [
+            "236459"
+          ],
+          "Brickset": [
+            "30387"
+          ],
+          "LDraw": [
+            "30387"
+          ],
+          "LEGO": [
+            "30387"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4218728",
+      "num_sets": 44
+    },
+    {
+      "id": 273726,
+      "inv_part_id": 273726,
+      "part": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300105.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3001"
+          ],
+          "BrickOwl": [
+            "771344"
+          ],
+          "Brickset": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ],
+          "LDraw": [
+            "3001"
+          ],
+          "LEGO": [
+            "15589",
+            "3001",
+            "54534",
+            "72841"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4114319",
+      "num_sets": 314
+    },
+    {
+      "id": 552789,
+      "inv_part_id": 552789,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300305.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3003"
+          ],
+          "BrickOwl": [
+            "939628"
+          ],
+          "Brickset": [
+            "15591",
+            "3003",
+            "62404"
+          ],
+          "LDraw": [
+            "3003"
+          ],
+          "LEGO": [
+            "15591",
+            "3003",
+            "62404"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false
+      },
+      "set_num": "10666-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4114306",
+      "num_sets": 401
+    },
+    {
+      "id": 4133136,
+      "inv_part_id": 4133136,
+      "part": {
+        "part_num": "3626cpr0389",
+        "name": "Minifig Head, Smirk, Black Dimple, Stubble Beard and Moustache and Sideburns Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626cpr0389/minifig-head-smirk-black-dimple-stubble-beard-and-moustache-and-sideburns-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626cpr0389-14-a9b4b82b-0de8-4925-afc8-5eb034943aef.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626px301"
+          ],
+          "BrickOwl": [
+            "51607"
+          ]
+        },
+        "print_of": "3626c"
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-000254",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": null,
+      "num_sets": 63
+    },
+    {
+      "id": 4133135,
+      "inv_part_id": 4133135,
+      "part": {
+        "part_num": "973c34h12pr1182",
+        "name": "Torso Safety Jacket with Zipper, Pockets, and Blue Shirt Print, Orange Arms, Dark Bluish Gray Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c34h12pr1182/torso-safety-jacket-with-zipper-pockets-and-blue-shirt-print-orange-arms-dark-bluish-gray-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4275843.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973pb0263c02"
+          ],
+          "BrickOwl": [
+            "662188"
+          ],
+          "Brickset": [
+            "76382"
+          ],
+          "LDraw": [
+            "76382p8g"
+          ],
+          "LEGO": [
+            "76382"
+          ]
+        },
+        "print_of": "973c34h12"
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false
+      },
+      "set_num": "fig-000254",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6031982",
+      "num_sets": 46
+    },
+    {
+      "id": 4133138,
+      "inv_part_id": 4133138,
+      "part": {
+        "part_num": "3833",
+        "name": "Helmet, Construction / Hard Hat",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/3833/helmet-construction-hard-hat/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/383321.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3833"
+          ],
+          "BrickOwl": [
+            "610846"
+          ],
+          "Brickset": [
+            "3833"
+          ],
+          "LDraw": [
+            "3833"
+          ],
+          "LEGO": [
+            "3833"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false
+      },
+      "set_num": "fig-000254",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "383371",
+      "num_sets": 209
+    },
+    {
+      "id": 4133137,
+      "inv_part_id": 4133137,
+      "part": {
+        "part_num": "970c34",
+        "name": "Hips and Orange Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c34/hips-and-orange-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4120158.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c04"
+          ],
+          "BrickOwl": [
+            "863328",
+            "948433"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false
+      },
+      "set_num": "fig-000254",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6329305",
+      "num_sets": 177
+    }
+  ]
+}

@@ -1,0 +1,1148 @@
+{
+  "count": 28,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 245573,
+      "inv_part_id": 245573,
+      "part": {
+        "part_num": "32002",
+        "name": "Technic Pin 3/4",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/32002/technic-pin-34/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4109854.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32002"
+          ],
+          "BrickOwl": [
+            "265341"
+          ],
+          "Brickset": [
+            "32002"
+          ],
+          "LDraw": [
+            "32002"
+          ],
+          "LEGO": [
+            "32002"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4109854",
+      "num_sets": 148
+    },
+    {
+      "id": 153008,
+      "inv_part_id": 153008,
+      "part": {
+        "part_num": "23229",
+        "name": "Rubber Band 15mm [Square Cross Section]",
+        "part_cat_id": 31,
+        "part_url": "https://rebrickable.com/parts/23229/rubber-band-15mm-square-cross-section/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u151.png",
+        "external_ids": {
+          "BrickLink": [
+            "x151"
+          ],
+          "BrickOwl": [
+            "48222"
+          ],
+          "LDraw": [
+            "u151"
+          ],
+          "Peeron": [
+            "x151"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4141604",
+      "num_sets": 27
+    },
+    {
+      "id": 640515,
+      "inv_part_id": 640515,
+      "part": {
+        "part_num": "23229",
+        "name": "Rubber Band 15mm [Square Cross Section]",
+        "part_cat_id": 31,
+        "part_url": "https://rebrickable.com/parts/23229/rubber-band-15mm-square-cross-section/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u151.png",
+        "external_ids": {
+          "BrickLink": [
+            "x151"
+          ],
+          "BrickOwl": [
+            "48222"
+          ],
+          "LDraw": [
+            "u151"
+          ],
+          "Peeron": [
+            "x151"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 3,
+      "is_spare": true,
+      "element_id": "4141604",
+      "num_sets": 27
+    },
+    {
+      "id": 287041,
+      "inv_part_id": 287041,
+      "part": {
+        "part_num": "75c05",
+        "name": "Hose Rigid 3mm D. 5L / 4.0cm",
+        "part_cat_id": 30,
+        "part_url": "https://rebrickable.com/parts/75c05/hose-rigid-3mm-d-5l-40cm/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/76307.png",
+        "external_ids": {
+          "BrickLink": [
+            "75c05"
+          ],
+          "BrickOwl": [
+            "999392"
+          ],
+          "Brickset": [
+            "100890",
+            "47040",
+            "51976"
+          ],
+          "LDraw": [
+            "76307"
+          ],
+          "LEGO": [
+            "100890",
+            "47040",
+            "51976"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4201605",
+      "num_sets": 1
+    },
+    {
+      "id": 478325,
+      "inv_part_id": 478325,
+      "part": {
+        "part_num": "75c05",
+        "name": "Hose Rigid 3mm D. 5L / 4.0cm",
+        "part_cat_id": 30,
+        "part_url": "https://rebrickable.com/parts/75c05/hose-rigid-3mm-d-5l-40cm/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/76307.png",
+        "external_ids": {
+          "BrickLink": [
+            "75c05"
+          ],
+          "BrickOwl": [
+            "999392"
+          ],
+          "Brickset": [
+            "100890",
+            "47040",
+            "51976"
+          ],
+          "LDraw": [
+            "76307"
+          ],
+          "LEGO": [
+            "100890",
+            "47040",
+            "51976"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4201605",
+      "num_sets": 1
+    },
+    {
+      "id": 675450,
+      "inv_part_id": 675450,
+      "part": {
+        "part_num": "32039",
+        "name": "Technic Axle Connector with Axle Hole",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/32039/technic-axle-connector-with-axle-hole/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4177427.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32039"
+          ],
+          "BrickOwl": [
+            "368144"
+          ],
+          "Brickset": [
+            "32039"
+          ],
+          "LDraw": [
+            "32039"
+          ],
+          "LEGO": [
+            "32039"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 135,
+        "name": "Pearl Light Gray",
+        "rgb": "9CA3A8",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4255607",
+      "num_sets": 6
+    },
+    {
+      "id": 463272,
+      "inv_part_id": 463272,
+      "part": {
+        "part_num": "43559",
+        "name": "Large Figure Shoulder Cover, Armour",
+        "part_cat_id": 41,
+        "part_url": "https://rebrickable.com/parts/43559/large-figure-shoulder-cover-armour/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4201206.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "x345"
+          ],
+          "BrickOwl": [
+            "998286"
+          ],
+          "Brickset": [
+            "43559"
+          ],
+          "LDraw": [
+            "43559"
+          ],
+          "LEGO": [
+            "43559"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4201206",
+      "num_sets": 4
+    },
+    {
+      "id": 516803,
+      "inv_part_id": 516803,
+      "part": {
+        "part_num": "3673",
+        "name": "Technic Pin without Friction Ridges Lengthwise",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/3673/technic-pin-without-friction-ridges-lengthwise/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/367302.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3673"
+          ],
+          "BrickOwl": [
+            "878954"
+          ],
+          "Brickset": [
+            "3673"
+          ],
+          "LDraw": [
+            "3673"
+          ],
+          "LEGO": [
+            "3673"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4184166",
+      "num_sets": 378
+    },
+    {
+      "id": 563156,
+      "inv_part_id": 563156,
+      "part": {
+        "part_num": "32316",
+        "name": "Technic Beam 1 x 5 Thick",
+        "part_cat_id": 51,
+        "part_url": "https://rebrickable.com/parts/32316/technic-beam-1-x-5-thick/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4142134.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32316"
+          ],
+          "BrickOwl": [
+            "786387"
+          ],
+          "Brickset": [
+            "32316",
+            "41616"
+          ],
+          "LDraw": [
+            "32316"
+          ],
+          "LEGO": [
+            "32316",
+            "41616"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 3,
+      "is_spare": false,
+      "element_id": "4142134",
+      "num_sets": 56
+    },
+    {
+      "id": 247648,
+      "inv_part_id": 247648,
+      "part": {
+        "part_num": "44848",
+        "name": "Large Figure Accessory, Hockey Puck [No Axlehole]",
+        "part_cat_id": 41,
+        "part_url": "https://rebrickable.com/parts/44848/large-figure-accessory-hockey-puck-no-axlehole/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/44848.png",
+        "external_ids": {
+          "BrickLink": [
+            "44848"
+          ],
+          "BrickOwl": [
+            "103480"
+          ],
+          "LDraw": [
+            "44848"
+          ],
+          "Peeron": [
+            "x135"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4196746",
+      "num_sets": 12
+    },
+    {
+      "id": 112856,
+      "inv_part_id": 112856,
+      "part": {
+        "part_num": "32039",
+        "name": "Technic Axle Connector with Axle Hole",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/32039/technic-axle-connector-with-axle-hole/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4107800.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32039"
+          ],
+          "BrickOwl": [
+            "368144"
+          ],
+          "Brickset": [
+            "32039"
+          ],
+          "LDraw": [
+            "32039"
+          ],
+          "LEGO": [
+            "32039"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4107800",
+      "num_sets": 72
+    },
+    {
+      "id": 377752,
+      "inv_part_id": 377752,
+      "part": {
+        "part_num": "32523",
+        "name": "Technic Beam 1 x 3 Thick",
+        "part_cat_id": 51,
+        "part_url": "https://rebrickable.com/parts/32523/technic-beam-1-x-3-thick/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4153707.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32523"
+          ],
+          "BrickOwl": [
+            "274829"
+          ],
+          "Brickset": [
+            "17141",
+            "32523",
+            "41482"
+          ],
+          "LDraw": [
+            "32523"
+          ],
+          "LEGO": [
+            "17141",
+            "32523",
+            "41482"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4153707",
+      "num_sets": 125
+    },
+    {
+      "id": 130942,
+      "inv_part_id": 130942,
+      "part": {
+        "part_num": "75c19",
+        "name": "Hose Rigid 3mm D. 19L / 15.2cm",
+        "part_cat_id": 30,
+        "part_url": "https://rebrickable.com/parts/75c19/hose-rigid-3mm-d-19l-152cm/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/22463.png",
+        "external_ids": {
+          "BrickLink": [
+            "75c19"
+          ],
+          "BrickOwl": [
+            "978562"
+          ],
+          "Brickset": [
+            "47518",
+            "76257"
+          ],
+          "LDraw": [
+            "22463"
+          ],
+          "LEGO": [
+            "47518",
+            "76257"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4201611",
+      "num_sets": 1
+    },
+    {
+      "id": 550199,
+      "inv_part_id": 550199,
+      "part": {
+        "part_num": "2780",
+        "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/2780/technic-pin-with-friction-ridges-lengthwise-and-center-slots/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2780"
+          ],
+          "BrickOwl": [
+            "33899"
+          ],
+          "Brickset": [
+            "2780"
+          ],
+          "LDraw": [
+            "2780"
+          ],
+          "LEGO": [
+            "2780"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4121715",
+      "num_sets": 2499
+    },
+    {
+      "id": 338790,
+      "inv_part_id": 338790,
+      "part": {
+        "part_num": "32016",
+        "name": "Technic Axle and Pin Connector Angled #3 - 157.5\u00b0",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/32016/technic-axle-and-pin-connector-angled-3-1575/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4107067.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32016"
+          ],
+          "BrickOwl": [
+            "341421"
+          ],
+          "Brickset": [
+            "32016",
+            "42128"
+          ],
+          "LDraw": [
+            "32016"
+          ],
+          "LEGO": [
+            "32016",
+            "42128"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6430834",
+      "num_sets": 13
+    },
+    {
+      "id": 326879,
+      "inv_part_id": 326879,
+      "part": {
+        "part_num": "6587",
+        "name": "Technic Axle 3 with Stud",
+        "part_cat_id": 46,
+        "part_url": "https://rebrickable.com/parts/6587/technic-axle-3-with-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113884.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6587"
+          ],
+          "BrickOwl": [
+            "662135"
+          ],
+          "Brickset": [
+            "13670",
+            "6587"
+          ],
+          "LDraw": [
+            "6587"
+          ],
+          "LEGO": [
+            "13670",
+            "6587"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "658727",
+      "num_sets": 201
+    },
+    {
+      "id": 105507,
+      "inv_part_id": 105507,
+      "part": {
+        "part_num": "42074",
+        "name": "Large Figure Weapon, Claw / Tooth / Hook 2 x 3 with Axle and Hole",
+        "part_cat_id": 41,
+        "part_url": "https://rebrickable.com/parts/42074/large-figure-weapon-claw-tooth-hook-2-x-3-with-axle-and-hole/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4175943.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "42074"
+          ],
+          "BrickOwl": [
+            "658996"
+          ],
+          "Brickset": [
+            "42074"
+          ],
+          "LDraw": [
+            "42074"
+          ],
+          "LEGO": [
+            "42074"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 135,
+        "name": "Pearl Light Gray",
+        "rgb": "9CA3A8",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "4175943",
+      "num_sets": 17
+    },
+    {
+      "id": 661086,
+      "inv_part_id": 661086,
+      "part": {
+        "part_num": "6628",
+        "name": "Technic Pin with Friction Ridges Lengthwise and Towball",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/6628/technic-pin-with-friction-ridges-lengthwise-and-towball/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4184169.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6628",
+            "6628a"
+          ],
+          "BrickOwl": [
+            "907404"
+          ],
+          "Brickset": [
+            "6628"
+          ],
+          "LDraw": [
+            "6628"
+          ],
+          "LEGO": [
+            "6628"
+          ],
+          "Peeron": [
+            "50"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "662826",
+      "num_sets": 479
+    },
+    {
+      "id": 678571,
+      "inv_part_id": 678571,
+      "part": {
+        "part_num": "3673",
+        "name": "Technic Pin without Friction Ridges Lengthwise",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/3673/technic-pin-without-friction-ridges-lengthwise/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/367302.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3673"
+          ],
+          "BrickOwl": [
+            "878954"
+          ],
+          "Brickset": [
+            "3673"
+          ],
+          "LDraw": [
+            "3673"
+          ],
+          "LEGO": [
+            "3673"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4184166",
+      "num_sets": 378
+    },
+    {
+      "id": 727426,
+      "inv_part_id": 727426,
+      "part": {
+        "part_num": "4274",
+        "name": "Technic Pin 1/2",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/4274/technic-pin-12/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/427402.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4274"
+          ],
+          "BrickOwl": [
+            "778994"
+          ],
+          "Brickset": [
+            "4274"
+          ],
+          "LDraw": [
+            "4274"
+          ],
+          "LEGO": [
+            "4274"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "427402",
+      "num_sets": 291
+    },
+    {
+      "id": 512223,
+      "inv_part_id": 512223,
+      "part": {
+        "part_num": "41752",
+        "name": "Rubber Band / Belt Holder 2 x 4 x 2 1/3",
+        "part_cat_id": 31,
+        "part_url": "https://rebrickable.com/parts/41752/rubber-band-belt-holder-2-x-4-x-2-13/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/41752.png",
+        "external_ids": {
+          "BrickLink": [
+            "41752"
+          ],
+          "BrickOwl": [
+            "364023"
+          ],
+          "LDraw": [
+            "41752"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4161418",
+      "num_sets": 1
+    },
+    {
+      "id": 662277,
+      "inv_part_id": 662277,
+      "part": {
+        "part_num": "2780",
+        "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/2780/technic-pin-with-friction-ridges-lengthwise-and-center-slots/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2780"
+          ],
+          "BrickOwl": [
+            "33899"
+          ],
+          "Brickset": [
+            "2780"
+          ],
+          "LDraw": [
+            "2780"
+          ],
+          "LEGO": [
+            "2780"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4121715",
+      "num_sets": 2499
+    },
+    {
+      "id": 830252,
+      "inv_part_id": 830252,
+      "part": {
+        "part_num": "4274",
+        "name": "Technic Pin 1/2",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/4274/technic-pin-12/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/427402.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4274"
+          ],
+          "BrickOwl": [
+            "778994"
+          ],
+          "Brickset": [
+            "4274"
+          ],
+          "LDraw": [
+            "4274"
+          ],
+          "LEGO": [
+            "4274"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": true,
+      "element_id": "427402",
+      "num_sets": 291
+    },
+    {
+      "id": 565229,
+      "inv_part_id": 565229,
+      "part": {
+        "part_num": "32348",
+        "name": "Technic Beam 1 x 7 Bent (4 - 4) Thick",
+        "part_cat_id": 51,
+        "part_url": "https://rebrickable.com/parts/32348/technic-beam-1-x-7-bent-4-4-thick/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4144300.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32348"
+          ],
+          "BrickOwl": [
+            "839338"
+          ],
+          "Brickset": [
+            "32348",
+            "42165"
+          ],
+          "LDraw": [
+            "32348"
+          ],
+          "LEGO": [
+            "32348",
+            "42165"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6345498",
+      "num_sets": 13
+    },
+    {
+      "id": 723956,
+      "inv_part_id": 723956,
+      "part": {
+        "part_num": "32175",
+        "name": "Technic Connector Block 3 x 3 Triangular with Axle, and Pin Hole",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/32175/technic-connector-block-3-x-3-triangular-with-axle-and-pin-hole/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4119335.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32175"
+          ],
+          "BrickOwl": [
+            "669349"
+          ],
+          "Brickset": [
+            "32175"
+          ],
+          "LDraw": [
+            "32175"
+          ],
+          "LEGO": [
+            "32175"
+          ],
+          "Peeron": [
+            "111"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "4203488",
+      "num_sets": 4
+    },
+    {
+      "id": 5606608,
+      "inv_part_id": 5606608,
+      "part": {
+        "part_num": "32002",
+        "name": "Technic Pin 3/4",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/32002/technic-pin-34/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4109854.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32002"
+          ],
+          "BrickOwl": [
+            "265341"
+          ],
+          "Brickset": [
+            "32002"
+          ],
+          "LDraw": [
+            "32002"
+          ],
+          "LEGO": [
+            "32002"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "4109854",
+      "num_sets": 148
+    },
+    {
+      "id": 945571,
+      "inv_part_id": 945571,
+      "part": {
+        "part_num": "41677",
+        "name": "Technic Beam 1 x 2 Thin",
+        "part_cat_id": 51,
+        "part_url": "https://rebrickable.com/parts/41677/technic-beam-1-x-2-thin/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4164133.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "41677"
+          ],
+          "BrickOwl": [
+            "9760"
+          ],
+          "Brickset": [
+            "41677",
+            "44862"
+          ],
+          "LDraw": [
+            "41677"
+          ],
+          "LEGO": [
+            "41677",
+            "44862"
+          ],
+          "Peeron": [
+            "169",
+            "x68"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6338428",
+      "num_sets": 290
+    },
+    {
+      "id": 692241,
+      "inv_part_id": 692241,
+      "part": {
+        "part_num": "3749",
+        "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+        "part_cat_id": 53,
+        "part_url": "https://rebrickable.com/parts/3749/technic-axle-pin-without-friction-ridges-lengthwise/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4133591.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3749"
+          ],
+          "BrickOwl": [
+            "254579"
+          ],
+          "Brickset": [
+            "6562"
+          ],
+          "LDraw": [
+            "3749"
+          ],
+          "LEGO": [
+            "3749",
+            "6562"
+          ]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false
+      },
+      "set_num": "3557-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "65625",
+      "num_sets": 1253
+    }
+  ]
+}
