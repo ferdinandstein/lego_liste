@@ -29,6 +29,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['vuetify'],
   },
+  base: 'lego_liste',
   define: { 'process.env': {} },
   resolve: {
     alias: {
