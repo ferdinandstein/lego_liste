@@ -8,7 +8,9 @@ def get_set_id(short_id):
 def get_database_dir():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     parent_dir = os.path.join(script_dir, os.pardir)
-    return os.path.join(parent_dir, "database")
+    frontend_dir = os.path.join(parent_dir, "frontend")
+    public_dir = os.path.join(frontend_dir, "public")
+    return os.path.join(public_dir, "database")
 
 
 def get_database_info_dir():
