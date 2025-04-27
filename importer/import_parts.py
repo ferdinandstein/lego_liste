@@ -5,6 +5,7 @@ import json
 import time
 
 from set_list import set_list
+from file_handling import get_set_id, get_set_parts_filepath, create_raw_dir
 
 load_dotenv()
 
@@ -28,37 +29,21 @@ def get_set_parts(set_id):
     return response.json()
 
 
-def get_set_id(short_id):
-    return f"{short_id}-1"
-
-
-def get_raw_dir():
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    return os.path.join(script_dir, "raw")
-
-
-def get_filepath(short_id):
-    raw_dir = get_raw_dir()
-    return os.path.join(raw_dir, f"{short_id}_parts.json")
-
-
 def save_to_file(set_parts, short_id):
-    file_path = get_filepath(short_id)
+    file_path = get_set_parts_filepath(short_id)
     with open(file_path, "w", encoding="utf-8") as file:
         json.dump(set_parts, file, indent=2)
 
 
 def setup():
-    raw_dir = get_raw_dir()
-    if not os.path.exists(raw_dir):
-        os.makedirs(raw_dir)
+    create_raw_dir()
 
 
 def main():
     setup()
     for lego_set in set_list:
         short_id = lego_set["id"]
-        file_path = get_filepath(short_id)
+        file_path = get_set_parts_filepath(short_id)
         if os.path.exists(file_path):
             print(f"File for {short_id} already exists. Skipping download.")
             continue
