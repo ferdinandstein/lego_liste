@@ -5,20 +5,14 @@
 
       <div class="mb-8 text-center">
         <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
-        <h1 class="text-h2 font-weight-bold">Vuetify</h1>
+        <h1 class="text-h2 font-weight-bold">My Lego parts search</h1>
       </div>
-
-      <v-row>
-        <v-col cols="12">
-          <ul>
-            <li v-for="color in colors" :key="color.name">
-              <v-chip :color="convertHexToRgba(color.rgb)" class="ma-2">
-                {{ color.name }} - {{ color.rgb }}
-              </v-chip>
-            </li>
-          </ul>
-        </v-col>
-      </v-row>
+      <SearchBrick />
+      <v-expansion-panels variant="accordion">
+        <v-expansion-panel v-for="color in colors" :key="color.name" :title="color.name" :text="color.rgb"
+          :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick">
+        </v-expansion-panel>
+      </v-expansion-panels>
     </div>
   </v-container>
 </template>
@@ -26,6 +20,7 @@
 <script setup lang="ts">
 import { useColors } from "@/client/DatabaseApi";
 import { convertHexToRgba } from "@/service/ColorService";
+import { mdiToyBrick } from '@mdi/js';
 
 const { colors } = useColors()
 

@@ -11,13 +11,13 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
-    "@mdi/font": "7.4.47",
     "axios": "^1.9.0",
     "roboto-fontface": "*",
     "vue": "^3.5.13",
     "vuetify": "^3.8.1"
   },
   "devDependencies": {
+    "@mdi/js": "^7.4.47",
     "@tsconfig/node22": "^22.0.0",
     "@types/node": "^22.9.0",
     "@vitejs/plugin-vue": "^5.2.3",
