@@ -14,6 +14,7 @@ declare module 'vue' {
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     SearchBrick: typeof import('./src/components/SearchBrick.vue')['default']
     SearchResult: typeof import('./src/components/SearchResult.vue')['default']
+    SearchResultView: typeof import('./src/components/SearchResultView.vue')['default']
     Website: typeof import('./src/components/Website.vue')['default']
   }
 }

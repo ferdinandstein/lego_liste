@@ -1,5 +1,6 @@
 import type { Color } from "@/model/Color"
 import type { Part } from "@/model/Part"
+import type { SetInfo } from "@/model/SetInfo"
 import axios from "axios"
 import { onMounted, ref } from "vue"
 
@@ -32,5 +33,24 @@ export const useParts = () => {
 
     return {
         fetchPart
+    }
+}
+
+export const useSetInfos = () => {
+    const fetchSetInfo = async (setId: number): Promise<SetInfo> => {
+        const setInfoResponse = await axios.get(`/lego_liste/database/info/${setId}.json`)
+
+        if (setInfoResponse.headers['content-type']?.includes('application/json')) {
+            return {
+                ...setInfoResponse.data,
+                id: setId,
+            } as SetInfo;
+        } else {
+            throw new Error("set info not found: " + setId);
+        }
+    }
+
+    return {
+        fetchSetInfo
     }
 }

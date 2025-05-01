@@ -7,6 +7,16 @@
             <v-col cols="12" md="6">
                 <h2>{{ part.name }}</h2>
             </v-col>
+            <v-list>
+                <v-list-item v-for="setInfo in setInfos" :key="setInfo.id">
+                    <v-list-item-media>
+                        <v-img :src="setInfo.imageUrl" :alt="setInfo.name"></v-img>
+                    </v-list-item-media>
+                    <v-list-item-title>{{ setInfo.name }}</v-list-item-title>
+                    <v-list-item-subtitle>{{ setInfo.id }}</v-list-item-subtitle>
+                </v-list-item>
+            </v-list>
+
         </v-row>
 
     </div>
@@ -24,9 +34,11 @@ import { convertHexToRgba } from "@/service/ColorService";
 import { mdiToyBrick } from '@mdi/js';
 import { useColors } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
+import type { SetInfo } from "@/model/SetInfo";
 
 defineProps<{
-    part: Part | undefined
+    part: Part | undefined,
+    setInfos: SetInfo[]
 }>()
 
 const { colors } = useColors()
