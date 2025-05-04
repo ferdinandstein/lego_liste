@@ -2,9 +2,11 @@ import { ref } from "vue";
 import type { Part } from "@/model/Part";
 import type { SetInfo } from "@/model/SetInfo";
 import { useParts, useSetInfos } from "@/client/DatabaseApi";
+import { usePartStore } from "@/stores/partStore";
 
 export const useSearchBrick = () => {
   const { fetchPart } = useParts();
+  const partStore = usePartStore();
 
   const isLoading = ref<boolean>(false);
   const partNotFound = ref<boolean>(false);
@@ -14,7 +16,18 @@ export const useSearchBrick = () => {
     partNotFound.value = false;
 
     try {
-      return await fetchPart(partNumber);
+      // Check if the part is already in the cache
+      if (partStore.hasPart(partNumber)) {
+        return partStore.getPart(partNumber);
+      }
+
+      // If not in cache, fetch from API
+      const part = await fetchPart(partNumber);
+
+      // Store in cache for future use
+      partStore.addPart(partNumber, part);
+
+      return part;
     } catch (error) {
       partNotFound.value = true;
       return undefined;
