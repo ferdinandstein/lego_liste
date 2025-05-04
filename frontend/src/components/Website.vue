@@ -14,29 +14,13 @@
 </template>
 
 <script setup lang="ts">
-import { useSetInfos } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
-import type { SetInfo } from "@/model/SetInfo";
-import { ref } from "vue";
+import { useSearchResults } from "@/service/SearchService";
 
-const { fetchSetInfo } = useSetInfos()
-
-const currentPart = ref<Part | undefined>(undefined)
-const setInfos = ref<SetInfo[]>([])
+const { currentPart, setInfos, loadPartResults } = useSearchResults();
 
 const newPartLoaded = (part: Part) => {
-  currentPart.value = part
-
-  if (part) {
-    setInfos.value = []
-    for (const setId of part.setIds) {
-      fetchSetInfo(setId).then((setInfo) => {
-        setInfos.value.push(setInfo)
-      })
-    }
-  } else {
-    setInfos.value = []
-  }
+  loadPartResults(part);
 }
 
 </script>
