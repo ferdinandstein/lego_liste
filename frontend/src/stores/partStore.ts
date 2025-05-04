@@ -1,7 +1,7 @@
-import { defineStore } from 'pinia';
-import type { Part } from '@/model/Part';
+import type { Part } from "@/model/Part";
+import { defineStore } from "pinia";
 
-export const usePartStore = defineStore('part', {
+export const usePartStore = defineStore("part", {
   state: () => ({
     parts: {} as Record<string, Part>,
   }),
@@ -14,6 +14,6 @@ export const usePartStore = defineStore('part', {
     },
     hasPart(partNumber: string): boolean {
       return partNumber in this.parts;
-    }
-  }
+    },
+  },
 });
