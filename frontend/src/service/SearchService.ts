@@ -10,10 +10,12 @@ export const useSearchBrick = () => {
 
   const isLoading = ref<boolean>(false);
   const partNotFound = ref<boolean>(false);
+  const searchCounter = ref<number>(0);
 
   const searchBrick = async (partNumber: string): Promise<Part | undefined> => {
     isLoading.value = true;
     partNotFound.value = false;
+    searchCounter.value += 1;
 
     try {
       // Check if the part is already in the cache
@@ -39,6 +41,7 @@ export const useSearchBrick = () => {
   return {
     isLoading,
     partNotFound,
+    searchCounter,
     searchBrick
   };
 };

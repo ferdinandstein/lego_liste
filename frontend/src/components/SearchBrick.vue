@@ -6,7 +6,8 @@
                 :disabled="isLoading">
             </v-text-field>
 
-            <v-btn size="large" color="rgba(50, 200, 200, 1)" @click="searchBrickClicked()" :disabled="isLoading">Search</v-btn>
+            <v-btn size="large" color="rgba(50, 200, 200, 1)" @click="searchBrickClicked()" :disabled="isLoading">Search
+                - {{ searchCounter }}</v-btn>
 
             <v-chip v-if="partNotFound" class="mt-4" color="red" label>Part not found</v-chip>
         </v-col>
@@ -19,7 +20,7 @@ import { ref, defineEmits } from "vue"
 import { useSearchBrick } from "@/service/SearchService";
 
 const search = ref<string>("")
-const { isLoading, partNotFound, searchBrick } = useSearchBrick()
+const { isLoading, partNotFound, searchCounter, searchBrick } = useSearchBrick()
 
 const emit = defineEmits<{
     (event: "part-loaded", part: Part | undefined): void
