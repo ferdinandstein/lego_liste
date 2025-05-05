@@ -1,5 +1,4 @@
-
 export interface PartColorQuantity {
-    colorId: number;
-    quantity: number;
+  colorId: number;
+  quantity: number;
 }

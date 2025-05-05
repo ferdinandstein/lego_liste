@@ -30,17 +30,16 @@
 
 
 <script setup lang="ts">
-import { convertHexToRgba } from "@/service/ColorService";
-import { mdiToyBrick } from '@mdi/js';
 import { useColors } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
 import type { SetInfo } from "@/model/SetInfo";
+import { convertHexToRgba } from "@/service/ColorService";
+import { mdiToyBrick } from "@mdi/js";
 
 defineProps<{
-    part: Part | undefined,
-    setInfos: SetInfo[]
-}>()
+  part: Part | undefined;
+  setInfos: SetInfo[];
+}>();
 
-const { colors } = useColors()
-
+const { colors } = useColors();
 </script>

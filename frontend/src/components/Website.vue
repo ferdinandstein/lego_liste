@@ -21,6 +21,5 @@ const { currentPart, setInfos, loadPartResults } = useSearchResults();
 
 const newPartLoaded = (part: Part) => {
   loadPartResults(part);
-}
-
+};
 </script>

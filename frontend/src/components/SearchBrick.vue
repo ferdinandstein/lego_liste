@@ -16,18 +16,16 @@
 
 <script setup lang="ts">
 import type { Part } from "@/model/Part";
-import { ref, defineEmits } from "vue"
 import { useSearchBrick } from "@/service/SearchService";
+import { defineEmits, ref } from "vue";
 
-const search = ref<string>("")
-const { isLoading, partNotFound, searchCounter, searchBrick } = useSearchBrick()
+const search = ref<string>("");
+const { isLoading, partNotFound, searchCounter, searchBrick } = useSearchBrick();
 
-const emit = defineEmits<{
-    (event: "part-loaded", part: Part | undefined): void
-}>()
+const emit = defineEmits<(event: "part-loaded", part: Part | undefined) => void>();
 
 const searchBrickClicked = async () => {
-    const part = await searchBrick(search.value)
-    emit("part-loaded", part)
-}
+  const part = await searchBrick(search.value);
+  emit("part-loaded", part);
+};
 </script>

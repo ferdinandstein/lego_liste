@@ -1,8 +1,8 @@
-import { ref } from "vue";
+import { useParts, useSetInfos } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
 import type { SetInfo } from "@/model/SetInfo";
-import { useParts, useSetInfos } from "@/client/DatabaseApi";
 import { usePartStore } from "@/stores/partStore";
+import { ref } from "vue";
 
 export const useSearchBrick = () => {
   const { fetchPart } = useParts();
@@ -42,7 +42,7 @@ export const useSearchBrick = () => {
     isLoading,
     partNotFound,
     searchCounter,
-    searchBrick
+    searchBrick,
   };
 };
 
@@ -55,21 +55,17 @@ export const useSearchResults = () => {
   const loadPartResults = async (part: Part) => {
     currentPart.value = part;
 
-    if (part) {
-      setInfos.value = [];
-      for (const setId of part.setIds) {
-        fetchSetInfo(setId).then((setInfo) => {
-          setInfos.value.push(setInfo);
-        });
-      }
-    } else {
-      setInfos.value = [];
+    setInfos.value = [];
+    for (const setId of part.setIds) {
+      fetchSetInfo(setId).then((setInfo) => {
+        setInfos.value.push(setInfo);
+      });
     }
   };
 
   return {
     currentPart,
     setInfos,
-    loadPartResults
+    loadPartResults,
   };
 };

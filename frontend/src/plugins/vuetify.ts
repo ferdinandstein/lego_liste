@@ -5,21 +5,21 @@
  */
 
 // Styles
-import 'vuetify/styles'
-import { aliases, mdi } from 'vuetify/iconsets/mdi-svg'
+import "vuetify/styles";
+import { aliases, mdi } from "vuetify/iconsets/mdi-svg";
 
 // Composables
-import { createVuetify } from 'vuetify'
+import { createVuetify } from "vuetify";
 
 export default createVuetify({
   theme: {
-    defaultTheme: 'dark',
+    defaultTheme: "dark",
   },
   icons: {
-    defaultSet: 'mdi',
+    defaultSet: "mdi",
     aliases,
     sets: {
       mdi,
     },
   },
-})
+});
