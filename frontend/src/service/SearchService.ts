@@ -2,6 +2,7 @@ import { useParts, useSetInfos } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
 import type { SetInfo } from "@/model/SetInfo";
 import { usePartStore } from "@/stores/partStore";
+import { useSetInfoStore } from "@/stores/setInfoStore";
 import { ref } from "vue";
 
 export const useSearchBrick = () => {
@@ -54,12 +55,27 @@ export const useSearchResults = () => {
 
   const loadPartResults = async (part: Part) => {
     currentPart.value = part;
+    const setInfoStore = useSetInfoStore();
 
     setInfos.value = [];
     for (const setId of part.setIds) {
-      fetchSetInfo(setId).then((setInfo) => {
-        setInfos.value.push(setInfo);
-      });
+      const setInfoFromCache = setInfoStore.getSetInfo(setId);
+
+      // use setInfo from cache if available
+      if (setInfoFromCache) {
+        setInfos.value.push(setInfoFromCache);
+        continue;
+      }
+
+      // if not in cache, fetch from API
+      fetchSetInfo(setId)
+        .then((setInfo) => {
+          setInfos.value.push(setInfo);
+          setInfoStore.addSetInfo(setId, setInfo);
+        })
+        .catch((error) => {
+          console.error(`Error fetching set info for ${setId}:`, error);
+        });
     }
   };
 
