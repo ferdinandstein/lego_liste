@@ -7,8 +7,11 @@
         <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
         <h1 class="text-h2 font-weight-bold">My Lego parts search</h1>
       </div>
+      <v-divider class="mb-10" />
       <SearchBrick @part-loaded="newPartLoaded" />
+      <v-divider class="mb-10" />
       <SearchResultView :part="currentPart" :setInfos="setInfos" />
+      <add-new-set />
     </div>
   </v-container>
 </template>

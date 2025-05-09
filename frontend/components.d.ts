@@ -8,6 +8,7 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    AddNewSet: typeof import('./src/components/AddNewSet.vue')['default']
     Device: typeof import('./src/components/Device.vue')['default']
     Expansionpanel: typeof import('./src/components/Expansionpanel.vue')['default']
     Helloorld: typeof import('./src/components/Helloorld.vue')['default']
