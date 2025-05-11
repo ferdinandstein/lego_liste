@@ -7,13 +7,20 @@
             <v-col cols="12" md="6">
                 <h2>{{ part.name }}</h2>
             </v-col>
-            <v-list>
-                <v-list-item v-for="setInfo in setInfos" :key="setInfo.id">
+            <v-list v-if="searchResult">
+                <v-list-item v-for="setInfo in searchResult.setInfosWithColorQuantity" :key="setInfo.id">
                     <v-list-item-media>
                         <v-img :src="setInfo.imageUrl" :alt="setInfo.name"></v-img>
                     </v-list-item-media>
-                    <v-list-item-title>{{ setInfo.name }}</v-list-item-title>
-                    <v-list-item-subtitle>{{ setInfo.id }}</v-list-item-subtitle>
+                    <h3>{{ setInfo.name }} - {{ setInfo.id }}</h3>
+                    <v-list-item v-for="quantityPerColor in setInfo.quantityPerColor" :key="quantityPerColor.colorId">
+                        <h4>
+                            <strong class="text-grey-lighten-1">
+                                {{ quantityPerColor.quantity }} in {{
+                                    quantityPerColor.colorId }}
+                            </strong>
+                        </h4>
+                    </v-list-item>
                 </v-list-item>
             </v-list>
 
@@ -23,7 +30,7 @@
 
     <v-expansion-panels variant="accordion">
         <v-expansion-panel v-for="color in colors" :key="color.name" :title="color.name" :text="color.rgb"
-            :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick">
+            :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick" :collapse-icon="mdiToyBrick">
         </v-expansion-panel>
     </v-expansion-panels>
 </template>
@@ -32,13 +39,13 @@
 <script setup lang="ts">
 import { useColors } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
-import type { SetInfo } from "@/model/SetInfo";
+import type { SearchResult } from "@/model/SearchResult";
 import { convertHexToRgba } from "@/service/ColorService";
 import { mdiToyBrick } from "@mdi/js";
 
 defineProps<{
   part: Part | undefined;
-  setInfos: SetInfo[];
+  searchResult: SearchResult | undefined;
 }>();
 
 const { colors } = useColors();

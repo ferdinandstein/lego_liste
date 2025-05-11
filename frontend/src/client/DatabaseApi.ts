@@ -24,7 +24,10 @@ export const useParts = () => {
     const partResponse = await axios.get(`/lego_liste/database/parts/${partId}.json`);
 
     if (partResponse.headers["content-type"]?.includes("application/json")) {
-      return partResponse.data as Part;
+      return {
+        ...partResponse.data,
+        id: partId,
+      } as Part;
     }
 
     throw new Error("Response is not JSON");

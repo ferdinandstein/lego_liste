@@ -10,7 +10,7 @@
       <v-divider class="mb-10" />
       <SearchBrick @part-loaded="newPartLoaded" />
       <v-divider class="mb-10" />
-      <SearchResultView :part="currentPart" :setInfos="setInfos" />
+      <SearchResultView :part="currentPart" :searchResult="searchResult" />
       <add-new-set />
     </div>
   </v-container>
@@ -20,9 +20,9 @@
 import type { Part } from "@/model/Part";
 import { useSearchResults } from "@/service/SearchService";
 
-const { currentPart, setInfos, loadPartResults } = useSearchResults();
+const { currentPart, searchResult, loadPartResults } = useSearchResults();
 
-const newPartLoaded = (part: Part) => {
-  loadPartResults(part);
+const newPartLoaded = async (part: Part) => {
+  await loadPartResults(part);
 };
 </script>

@@ -1,5 +1,5 @@
 <template>
-    <div class="position-absolute top-0 right-0 rounded-lg pa-3">
+    <div class="position-fixed top-0 right-0 rounded-lg pa-3">
         <v-expansion-panels variant="accordion">
             <v-expansion-panel title="Add new Set" :collapse-icon="mdiPlusCircleOutline"
                 :expand-icon="mdiPlusCircleOutline">
@@ -18,5 +18,4 @@
 
 <script setup lang="ts">
 import { mdiPlusCircleOutline } from "@mdi/js";
-
 </script>

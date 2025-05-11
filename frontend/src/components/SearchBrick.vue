@@ -2,7 +2,7 @@
     <v-row>
         <v-col cols="12">
             <v-text-field v-model="search" class="mb-4" label="Search for a brick by part number"
-                placeholder="Enter a part number like 3001" required prepend-inner-icon="mdi-magnify" single-line
+                placeholder="Enter a part number like 3001/78c02" required prepend-inner-icon="mdi-magnify" single-line
                 :disabled="isLoading">
             </v-text-field>
 
