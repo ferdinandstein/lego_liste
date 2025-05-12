@@ -17,7 +17,7 @@
                         <h4>
                             <strong class="text-grey-lighten-1">
                                 {{ quantityPerColor.quantity }} in {{
-                                    quantityPerColor.colorId }}
+                                    colors && colors[quantityPerColor.colorId] ? colors[quantityPerColor.colorId].name : quantityPerColor.colorId }}
                             </strong>
                         </h4>
                     </v-list-item>
@@ -29,7 +29,7 @@
     </div>
 
     <v-expansion-panels variant="accordion">
-        <v-expansion-panel v-for="color in colors" :key="color.name" :title="color.name" :text="color.rgb"
+        <v-expansion-panel v-for="color in colors ? Object.values(colors) : []" :key="color.name" :title="color.name" :text="color.rgb"
             :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick" :collapse-icon="mdiToyBrick">
         </v-expansion-panel>
     </v-expansion-panels>

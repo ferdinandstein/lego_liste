@@ -25,7 +25,7 @@ import SearchResultView from "@/components/SearchResultView.vue";
 import type { Part } from "@/model/Part";
 import { useSearchResults } from "@/service/SearchService";
 
-const {currentPart, searchResult, loadPartResults} = useSearchResults();
+const { currentPart, searchResult, loadPartResults } = useSearchResults();
 
 const newPartLoaded = async (part: Part | undefined) => {
   if (part) {
