@@ -9,12 +9,8 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     AddNewSet: typeof import('./src/components/AddNewSet.vue')['default']
-    Device: typeof import('./src/components/Device.vue')['default']
-    Expansionpanel: typeof import('./src/components/Expansionpanel.vue')['default']
-    Helloorld: typeof import('./src/components/Helloorld.vue')['default']
-    HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
+    Overview: typeof import('./src/components/Overview.vue')['default']
     SearchBrick: typeof import('./src/components/SearchBrick.vue')['default']
-    SearchResult: typeof import('./src/components/SearchResult.vue')['default']
     SearchResultView: typeof import('./src/components/SearchResultView.vue')['default']
     Website: typeof import('./src/components/Website.vue')['default']
   }

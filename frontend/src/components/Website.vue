@@ -11,6 +11,7 @@
       <SearchBrick @part-loaded="newPartLoaded" />
       <v-divider class="mb-10" />
       <SearchResultView :part="currentPart" :searchResult="searchResult" />
+      <Overview :searchResult="searchResult" />
       <add-new-set />
     </div>
   </v-container>
