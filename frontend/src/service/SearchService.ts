@@ -58,7 +58,7 @@ export const useSearchResults = () => {
   const { fetchSetInfo } = useSetInfos();
 
   const loadPartResults = async (part: Part) => {
-    const setInfos = loadSetInfos(part);
+    const setInfos = await loadSetInfos(part);
     const setInfosWithColorQuantity = loadColorQuantityPerSet(setInfos, part);
     const quantityPerColor = loadColorQuantity(setInfosWithColorQuantity);
 
@@ -110,7 +110,7 @@ export const useSearchResults = () => {
     });
   }
 
-  function loadSetInfos(part: Part) {
+  async function loadSetInfos(part: Part) {
     const setInfos: SetInfo[] = [];
     for (const setId of part.setIds) {
       const setInfoFromCache = setInfoStore.getSetInfo(setId);
@@ -122,14 +122,13 @@ export const useSearchResults = () => {
       }
 
       // if not in cache, fetch from API
-      fetchSetInfo(setId)
-        .then((setInfo) => {
-          setInfos.push(setInfo);
-          setInfoStore.addSetInfo(setId, setInfo);
-        })
-        .catch((error) => {
-          console.error(`Error fetching set info for ${setId}:`, error);
-        });
+      try {
+        const setInfo = await fetchSetInfo(setId);
+        setInfos.push(setInfo);
+        setInfoStore.addSetInfo(setId, setInfo);
+      } catch (error) {
+        console.error(`Error fetching set info for ${setId}:`, error);
+      }
     }
 
     return setInfos;
