@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app class="cursor-none">
     <v-main>
       <Website />
     </v-main>

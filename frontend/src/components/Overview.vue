@@ -1,12 +1,11 @@
 <template>
   <div class="position-absolute top-0 right-0 rounded-lg pa-3">
     <v-expansion-panels variant="accordion">
-      <v-expansion-panel title="General infos for Part">
+      <v-expansion-panel class="cursor-not-allowed" title="General infos for Part">
         <v-expansion-panel-text v-if="searchResult">
-          <v-list-item v-for="quantityPerColor in searchResult.quantityPerColor"
-                       :key="quantityPerColor.colorId">
+          <v-list-item v-for="quantityPerColor in searchResult.quantityPerColor" :key="quantityPerColor.colorId">
             <v-chip variant="elevated" v-if="colors && colors[quantityPerColor.colorId]"
-                    :color="convertHexToRgba(colors[quantityPerColor.colorId].rgb)">
+              :color="convertHexToRgba(colors[quantityPerColor.colorId].rgb)">
               {{ quantityPerColor.quantity }} in {{ colors[quantityPerColor.colorId].name }}
             </v-chip>
           </v-list-item>
