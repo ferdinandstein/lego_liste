@@ -14,12 +14,10 @@
                     </v-list-item-media>
                     <h3>{{ setInfo.name }} - {{ setInfo.id }}</h3>
                     <v-list-item v-for="quantityPerColor in setInfo.quantityPerColor" :key="quantityPerColor.colorId">
-                        <h4>
-                            <strong class="text-grey-lighten-1">
-                                {{ quantityPerColor.quantity }} in {{
-                                    colors && colors[quantityPerColor.colorId] ? colors[quantityPerColor.colorId].name : quantityPerColor.colorId }}
-                            </strong>
-                        </h4>
+                        <v-chip variant="elevated" v-if="colors && colors[quantityPerColor.colorId]"
+                            :color="convertHexToRgba(colors[quantityPerColor.colorId].rgb)">
+                            {{ quantityPerColor.quantity }} in {{ colors[quantityPerColor.colorId].name }}
+                        </v-chip>
                     </v-list-item>
                 </v-list-item>
             </v-list>
@@ -29,8 +27,9 @@
     </div>
 
     <v-expansion-panels variant="accordion">
-        <v-expansion-panel v-for="color in colors ? Object.values(colors) : []" :key="color.name" :title="color.name" :text="color.rgb"
-            :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick" :collapse-icon="mdiToyBrick">
+        <v-expansion-panel v-for="color in colors ? Object.values(colors) : []" :key="color.name" :title="color.name"
+            :text="color.rgb" :bg-color="convertHexToRgba(color.rgb)" :expand-icon="mdiToyBrick"
+            :collapse-icon="mdiToyBrick">
         </v-expansion-panel>
     </v-expansion-panels>
 </template>

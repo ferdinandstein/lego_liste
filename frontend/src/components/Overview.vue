@@ -5,11 +5,14 @@
         <v-expansion-panel-text v-if="searchResult">
           <v-list-item v-for="quantityPerColor in searchResult.quantityPerColor"
                        :key="quantityPerColor.colorId">
-            <v-chip v-if="colors && colors[quantityPerColor.colorId]"
+            <v-chip variant="elevated" v-if="colors && colors[quantityPerColor.colorId]"
                     :color="convertHexToRgba(colors[quantityPerColor.colorId].rgb)">
-              {{ colors[quantityPerColor.colorId].name }} ({{ quantityPerColor.quantity }})
+              {{ quantityPerColor.quantity }} in {{ colors[quantityPerColor.colorId].name }}
             </v-chip>
           </v-list-item>
+          <v-chip>
+            {{ totalQuantity }} insgesamt
+          </v-chip>
         </v-expansion-panel-text>
       </v-expansion-panel>
     </v-expansion-panels>
@@ -20,10 +23,13 @@
 import { useColors } from "@/client/DatabaseApi.ts";
 import type { SearchResult } from "@/model/SearchResult";
 import { convertHexToRgba } from "@/service/ColorService.ts";
+import { computed } from "vue";
 
-defineProps<{
+const props = defineProps<{
   searchResult: SearchResult | undefined;
 }>();
 
 const { colors } = useColors();
+
+const totalQuantity = computed(() => props.searchResult?.quantityPerColor?.reduce((a, b) => a + b.quantity, 0) || 0);
 </script>
