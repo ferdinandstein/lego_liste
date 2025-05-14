@@ -8,7 +8,8 @@
                     <v-divider class="mb-3" />
                     <v-text-field class="mb-4 cursor-progress" placeholder="Enter a set number like 10220" single-line>
                     </v-text-field>
-                    <v-btn class="cursor-wait" size="large" color="rgba(50, 200, 200, 1)" @click="">Search
+                    <v-btn href="https://rebrickable.com/parts/" class="cursor-wait" size="large"
+                        color="rgba(50, 200, 200, 1)" @click="">Search
                     </v-btn>
                 </v-expansion-panel-text>
             </v-expansion-panel>

@@ -10,6 +10,7 @@
       <SearchBrick @part-loaded="newPartLoaded" />
       <v-divider class="mb-10" />
       <SearchResultView :part="currentPart" :searchResult="searchResult" />
+
       <Overview :searchResult="searchResult" />
       <AddNewSet />
     </div>
@@ -23,6 +24,7 @@ import SearchBrick from "@/components/SearchBrick.vue";
 import SearchResultView from "@/components/SearchResultView.vue";
 import type { Part } from "@/model/Part";
 import { useSearchResults } from "@/service/SearchService";
+import Karussell from "./Karussell.vue";
 
 const { currentPart, searchResult, loadPartResults } = useSearchResults();
 

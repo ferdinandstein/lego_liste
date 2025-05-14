@@ -19,6 +19,7 @@
                             {{ quantityPerColor.quantity }} in {{ colors[quantityPerColor.colorId].name }}
                         </v-chip>
                     </v-list-item>
+                    <v-divider class="mb-10"></v-divider>
                 </v-list-item>
             </v-list>
 
@@ -32,7 +33,6 @@ import { useColors } from "@/client/DatabaseApi";
 import type { Part } from "@/model/Part";
 import type { SearchResult } from "@/model/SearchResult";
 import { convertHexToRgba } from "@/service/ColorService";
-import { mdiToyBrick } from "@mdi/js";
 
 defineProps<{
     part: Part | undefined;

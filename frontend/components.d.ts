@@ -9,6 +9,7 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     AddNewSet: typeof import('./src/components/AddNewSet.vue')['default']
+    Karussell: typeof import('./src/components/Karussell.vue')['default']
     Overview: typeof import('./src/components/Overview.vue')['default']
     SearchBrick: typeof import('./src/components/SearchBrick.vue')['default']
     SearchResultView: typeof import('./src/components/SearchResultView.vue')['default']
