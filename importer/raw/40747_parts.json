@@ -1,0 +1,819 @@
+{
+  "count": 19,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 20854981,
+      "inv_part_id": 20854981,
+      "part": {
+        "part_num": "43898",
+        "name": "Dish 3 x 3 Inverted [Radar]",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/43898/dish-3-x-3-inverted-radar/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4179587.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "43898"
+          ],
+          "BrickOwl": [
+            "599616"
+          ],
+          "Brickset": [
+            "11059",
+            "15587",
+            "33688",
+            "35268",
+            "43898",
+            "44882",
+            "56640"
+          ],
+          "LDraw": [
+            "43898"
+          ],
+          "LEGO": [
+            "11059",
+            "15587",
+            "33688",
+            "35268",
+            "43898",
+            "44882",
+            "56640"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6167518",
+      "num_sets": 26
+    },
+    {
+      "id": 20854975,
+      "inv_part_id": 20854975,
+      "part": {
+        "part_num": "27940",
+        "name": "Technic Pin Connector Hub with 2 Axles",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/27940/technic-pin-connector-hub-with-2-axles/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6167281.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "27940"
+          ],
+          "BrickOwl": [
+            "751687"
+          ],
+          "Brickset": [
+            "27940"
+          ],
+          "LDraw": [
+            "27940"
+          ],
+          "LEGO": [
+            "27940"
+          ]
+        }
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6167281",
+      "num_sets": 173
+    },
+    {
+      "id": 20854974,
+      "inv_part_id": 20854974,
+      "part": {
+        "part_num": "2586",
+        "name": "Shield Ovoid [Plain]",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2586/shield-ovoid-plain/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6426171.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2586"
+          ],
+          "BrickOwl": [
+            "5622"
+          ],
+          "Brickset": [
+            "2586"
+          ],
+          "LDraw": [
+            "2586"
+          ],
+          "LEGO": [
+            "2586"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 12,
+      "is_spare": false,
+      "element_id": "6426171",
+      "num_sets": 2
+    },
+    {
+      "id": 20854973,
+      "inv_part_id": 20854973,
+      "part": {
+        "part_num": "2586",
+        "name": "Shield Ovoid [Plain]",
+        "part_cat_id": 73,
+        "part_url": "https://rebrickable.com/parts/2586/shield-ovoid-plain/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4160943.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2586"
+          ],
+          "BrickOwl": [
+            "5622"
+          ],
+          "Brickset": [
+            "2586"
+          ],
+          "LDraw": [
+            "2586"
+          ],
+          "LEGO": [
+            "2586"
+          ]
+        }
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 12,
+      "is_spare": false,
+      "element_id": "6395620",
+      "num_sets": 4
+    },
+    {
+      "id": 20854985,
+      "inv_part_id": 20854985,
+      "part": {
+        "part_num": "59443",
+        "name": "Technic Axle Connector Smooth [with x Hole + Orientation]",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/59443/technic-axle-connector-smooth-with-x-hole-orientation/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4654508.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "6538c"
+          ],
+          "BrickOwl": [
+            "213792"
+          ],
+          "Brickset": [
+            "59443"
+          ],
+          "LDraw": [
+            "59443"
+          ],
+          "LEGO": [
+            "59443"
+          ],
+          "Peeron": [
+            "6538c"
+          ]
+        }
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 60,
+      "is_spare": false,
+      "element_id": "6374076",
+      "num_sets": 15
+    },
+    {
+      "id": 20854978,
+      "inv_part_id": 20854978,
+      "part": {
+        "part_num": "32123b",
+        "name": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced",
+        "part_cat_id": 54,
+        "part_url": "https://rebrickable.com/parts/32123b/technic-bush-12-smooth-with-axle-hole-semi-reduced/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6271167.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4265c"
+          ],
+          "BrickOwl": [
+            "470580"
+          ],
+          "Brickset": [
+            "32123",
+            "42136"
+          ],
+          "LDraw": [
+            "32123b"
+          ],
+          "LEGO": [
+            "32123",
+            "42136"
+          ],
+          "Peeron": [
+            "4265c"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6271167",
+      "num_sets": 710
+    },
+    {
+      "id": 20854982,
+      "inv_part_id": 20854982,
+      "part": {
+        "part_num": "4519",
+        "name": "Technic Axle 3",
+        "part_cat_id": 46,
+        "part_url": "https://rebrickable.com/parts/4519/technic-axle-3/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4519"
+          ],
+          "BrickOwl": [
+            "151465"
+          ],
+          "Brickset": [
+            "4519"
+          ],
+          "LDraw": [
+            "4519"
+          ],
+          "LEGO": [
+            "4519"
+          ]
+        }
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4211815",
+      "num_sets": 1349
+    },
+    {
+      "id": 20854977,
+      "inv_part_id": 20854977,
+      "part": {
+        "part_num": "32062",
+        "name": "Technic Axle 2 Notched",
+        "part_cat_id": 46,
+        "part_url": "https://rebrickable.com/parts/32062/technic-axle-2-notched/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32062"
+          ],
+          "BrickOwl": [
+            "515411"
+          ],
+          "Brickset": [
+            "32062"
+          ],
+          "LDraw": [
+            "32062"
+          ],
+          "LEGO": [
+            "32062"
+          ],
+          "Peeron": [
+            "3704a"
+          ]
+        }
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 56,
+      "is_spare": false,
+      "element_id": "4109810",
+      "num_sets": 907
+    },
+    {
+      "id": 20854984,
+      "inv_part_id": 20854984,
+      "part": {
+        "part_num": "53923",
+        "name": "Hinge Cylinder 1 x 2 Locking with 1 Finger and Axle Hole On Ends [No Side Slots]",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/53923/hinge-cylinder-1-x-2-locking-with-1-finger-and-axle-hole-on-ends-no-side-slots/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6348250.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "53923"
+          ],
+          "BrickOwl": [
+            "546542"
+          ],
+          "Brickset": [
+            "53923"
+          ],
+          "LDraw": [
+            "53923"
+          ],
+          "LEGO": [
+            "53923"
+          ]
+        }
+      },
+      "color": {
+        "id": 378,
+        "name": "Sand Green",
+        "rgb": "A0BCAC",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "6348250",
+      "num_sets": 12
+    },
+    {
+      "id": 20854980,
+      "inv_part_id": 20854980,
+      "part": {
+        "part_num": "42135",
+        "name": "Technic Axle Connector with Axle Hole [Reinforced]",
+        "part_cat_id": 12,
+        "part_url": "https://rebrickable.com/parts/42135/technic-axle-connector-with-axle-hole-reinforced/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6375678.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32039"
+          ],
+          "BrickOwl": [
+            "368144"
+          ],
+          "Brickset": [
+            "42135"
+          ],
+          "LDraw": [
+            "42135"
+          ],
+          "LEGO": [
+            "42135"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6375678",
+      "num_sets": 17
+    },
+    {
+      "id": 20854972,
+      "inv_part_id": 20854972,
+      "part": {
+        "part_num": "1941",
+        "name": "Plate Special 1 x 1 with Hole Through Stud, 3 Bars and 3 Bar Holes",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/1941/plate-special-1-x-1-with-hole-through-stud-3-bars-and-3-bar-holes/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6400098.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "1941"
+          ],
+          "BrickOwl": [
+            "1068423"
+          ],
+          "Brickset": [
+            "1941"
+          ],
+          "LDraw": [
+            "1941"
+          ],
+          "LEGO": [
+            "1941"
+          ]
+        }
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "6400098",
+      "num_sets": 15
+    },
+    {
+      "id": 20854979,
+      "inv_part_id": 20854979,
+      "part": {
+        "part_num": "3942c",
+        "name": "Cone 2 x 2 x 2, Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3942c/cone-2-x-2-x-2-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4213119.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3942c"
+          ],
+          "BrickOwl": [
+            "183391"
+          ],
+          "Brickset": [
+            "14918",
+            "3942",
+            "63417",
+            "6834"
+          ],
+          "LDraw": [
+            "3942c"
+          ],
+          "LEGO": [
+            "14918",
+            "3942",
+            "63417",
+            "6834"
+          ]
+        }
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6533789",
+      "num_sets": 65
+    },
+    {
+      "id": 20854987,
+      "inv_part_id": 20854987,
+      "part": {
+        "part_num": "87994",
+        "name": "Bar 3L",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/87994/bar-3l/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6019176.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87994"
+          ],
+          "BrickOwl": [
+            "359273"
+          ],
+          "Brickset": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ],
+          "LDraw": [
+            "87994"
+          ],
+          "LEGO": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ]
+        }
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 12,
+      "is_spare": false,
+      "element_id": "6552205",
+      "num_sets": 141
+    },
+    {
+      "id": 20854986,
+      "inv_part_id": 20854986,
+      "part": {
+        "part_num": "87994",
+        "name": "Bar 3L",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/87994/bar-3l/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6093529.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87994"
+          ],
+          "BrickOwl": [
+            "359273"
+          ],
+          "Brickset": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ],
+          "LDraw": [
+            "87994"
+          ],
+          "LEGO": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ]
+        }
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 12,
+      "is_spare": false,
+      "element_id": "6093529",
+      "num_sets": 139
+    },
+    {
+      "id": 22247265,
+      "inv_part_id": 22247265,
+      "part": {
+        "part_num": "32123b",
+        "name": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced",
+        "part_cat_id": 54,
+        "part_url": "https://rebrickable.com/parts/32123b/technic-bush-12-smooth-with-axle-hole-semi-reduced/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6271167.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "4265c"
+          ],
+          "BrickOwl": [
+            "470580"
+          ],
+          "Brickset": [
+            "32123",
+            "42136"
+          ],
+          "LDraw": [
+            "32123b"
+          ],
+          "LEGO": [
+            "32123",
+            "42136"
+          ],
+          "Peeron": [
+            "4265c"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6271167",
+      "num_sets": 710
+    },
+    {
+      "id": 22247263,
+      "inv_part_id": 22247263,
+      "part": {
+        "part_num": "87994",
+        "name": "Bar 3L",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/87994/bar-3l/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6093529.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87994"
+          ],
+          "BrickOwl": [
+            "359273"
+          ],
+          "Brickset": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ],
+          "LDraw": [
+            "87994"
+          ],
+          "LEGO": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ]
+        }
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6093529",
+      "num_sets": 139
+    },
+    {
+      "id": 22247264,
+      "inv_part_id": 22247264,
+      "part": {
+        "part_num": "87994",
+        "name": "Bar 3L",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/87994/bar-3l/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6019176.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "87994"
+          ],
+          "BrickOwl": [
+            "359273"
+          ],
+          "Brickset": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ],
+          "LDraw": [
+            "87994"
+          ],
+          "LEGO": [
+            "17715",
+            "19385",
+            "37078",
+            "87994"
+          ]
+        }
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6552205",
+      "num_sets": 141
+    },
+    {
+      "id": 23920392,
+      "inv_part_id": 23920392,
+      "part": {
+        "part_num": "57906",
+        "name": "Hinge Plate 1 x 12 Locking 7 Teeth with Angled Side Extensions and Tapered Ends",
+        "part_cat_id": 18,
+        "part_url": "https://rebrickable.com/parts/57906/hinge-plate-1-x-12-locking-7-teeth-with-angled-side-extensions-and-tapered-ends/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6346399.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "57906"
+          ],
+          "BrickOwl": [
+            "677766"
+          ],
+          "Brickset": [
+            "53031",
+            "5379",
+            "55345",
+            "57906"
+          ],
+          "LDraw": [
+            "57906"
+          ],
+          "LEGO": [
+            "53031",
+            "5379",
+            "55345",
+            "57906"
+          ]
+        }
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 8,
+      "is_spare": false,
+      "element_id": "6478100",
+      "num_sets": 4
+    },
+    {
+      "id": 20854976,
+      "inv_part_id": 20854976,
+      "part": {
+        "part_num": "30374",
+        "name": "Bar 4L (Lightsaber Blade / Wand)",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/30374/bar-4l-lightsaber-blade-wand/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211236.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30374"
+          ],
+          "BrickOwl": [
+            "324854"
+          ],
+          "Brickset": [
+            "21462",
+            "28697",
+            "30374"
+          ],
+          "LDraw": [
+            "30374"
+          ],
+          "LEGO": [
+            "21462",
+            "28697",
+            "30374"
+          ],
+          "Peeron": [
+            "578"
+          ]
+        }
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "40747-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "6116613",
+      "num_sets": 344
+    }
+  ]
+}
