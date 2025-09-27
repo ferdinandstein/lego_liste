@@ -74,7 +74,7 @@ set_list = [
     {"id": 60224, "quantity": 1},
     {"id": 6662, "quantity": 1},
     {"id": 10757, "quantity": 1},
-    {"id": 30556, "quantity": 1},
+    {"id": 30556, "quantity": 2},
     {"id": 6038, "quantity": 1},
     {"id": 8290, "quantity": 1},
     {"id": 4011, "quantity": 1},
@@ -191,4 +191,6 @@ set_list = [
     {"id": 40460, "quantity": 1},
     {"id": 40747, "quantity": 1},
     {"id": 71049, "quantity": 1},
+    {"id": 30639, "quantity": 1},
+    {"id": 30636, "quantity": 2},
 ]

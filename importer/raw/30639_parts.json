@@ -1,0 +1,802 @@
+{
+  "count": 20,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 15480949,
+      "inv_part_id": 15480949,
+      "part": {
+        "part_num": "30377",
+        "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/30377/arm-mechanical-with-2-clips-battle-droid/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6236189.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30377"
+          ],
+          "BrickOwl": [
+            "925875"
+          ],
+          "Brickset": [
+            "30377",
+            "49754",
+            "55528",
+            "86024"
+          ],
+          "LDraw": [
+            "30377"
+          ],
+          "LEGO": [
+            "30377",
+            "49754",
+            "55528",
+            "86024"
+          ]
+        }
+      },
+      "color": {
+        "id": 179,
+        "name": "Flat Silver",
+        "rgb": "898788",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6330125",
+      "num_sets": 19
+    },
+    {
+      "id": 15480950,
+      "inv_part_id": 15480950,
+      "part": {
+        "part_num": "3062b",
+        "name": "Brick Round 1 x 1 Open Stud",
+        "part_cat_id": 20,
+        "part_url": "https://rebrickable.com/parts/3062b/brick-round-1-x-1-open-stud/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211183.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3062"
+          ],
+          "BrickOwl": [
+            "763649"
+          ],
+          "Brickset": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ],
+          "LDraw": [
+            "30068",
+            "3062b"
+          ],
+          "LEGO": [
+            "18860",
+            "30068",
+            "3062",
+            "35390"
+          ]
+        }
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 4,
+      "is_spare": false,
+      "element_id": "4211183",
+      "num_sets": 522
+    },
+    {
+      "id": 15480952,
+      "inv_part_id": 15480952,
+      "part": {
+        "part_num": "3464",
+        "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+        "part_cat_id": 29,
+        "part_url": "https://rebrickable.com/parts/3464/wheel-centre-small-with-stub-axles-pulley-wheel/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6005463.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3464"
+          ],
+          "BrickOwl": [
+            "337510"
+          ],
+          "Brickset": [
+            "3464"
+          ],
+          "LDraw": [
+            "3464b"
+          ],
+          "LEGO": [
+            "3464"
+          ]
+        }
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6005463",
+      "num_sets": 65
+    },
+    {
+      "id": 15480944,
+      "inv_part_id": 15480944,
+      "part": {
+        "part_num": "18674",
+        "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/18674/plate-special-round-2-x-2-with-center-stud-jumper-plate/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6132767.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "18674"
+          ],
+          "BrickOwl": [
+            "627945"
+          ],
+          "Brickset": [
+            "18674"
+          ],
+          "LDraw": [
+            "18674"
+          ],
+          "LEGO": [
+            "18674"
+          ]
+        }
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6132767",
+      "num_sets": 140
+    },
+    {
+      "id": 15480945,
+      "inv_part_id": 15480945,
+      "part": {
+        "part_num": "22888",
+        "name": "Plate Round Half 4 x 8",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/22888/plate-round-half-4-x-8/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6133767.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "22888"
+          ],
+          "BrickOwl": [
+            "64392"
+          ],
+          "Brickset": [
+            "22888"
+          ],
+          "LDraw": [
+            "22888"
+          ],
+          "LEGO": [
+            "22888"
+          ]
+        }
+      },
+      "color": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6133767",
+      "num_sets": 54
+    },
+    {
+      "id": 15480943,
+      "inv_part_id": 15480943,
+      "part": {
+        "part_num": "16606pat0001pr0001",
+        "name": "Animal, Dog, Husky with Black Eyes, Black Nose Print and Marbled Dark Bluish Gray Ears and Back Pattern",
+        "part_cat_id": 28,
+        "part_url": "https://rebrickable.com/parts/16606pat0001pr0001/animal-dog-husky-with-black-eyes-black-nose-print-and-marbled-dark-bluish-gray-ears-and-back-pattern/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6076467.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "16606pb001"
+          ],
+          "BrickOwl": [
+            "850929"
+          ],
+          "Brickset": [
+            "17817"
+          ],
+          "LEGO": [
+            "17817"
+          ]
+        }
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6076467",
+      "num_sets": 25
+    },
+    {
+      "id": 15480948,
+      "inv_part_id": 15480948,
+      "part": {
+        "part_num": "30031",
+        "name": "Handlebars",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/30031/handlebars/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6158405.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30031"
+          ],
+          "BrickOwl": [
+            "784421"
+          ],
+          "Brickset": [
+            "30031",
+            "51723"
+          ],
+          "LDraw": [
+            "30031"
+          ],
+          "LEGO": [
+            "30031",
+            "51723"
+          ]
+        }
+      },
+      "color": {
+        "id": 179,
+        "name": "Flat Silver",
+        "rgb": "898788",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6158405",
+      "num_sets": 45
+    },
+    {
+      "id": 15480958,
+      "inv_part_id": 15480958,
+      "part": {
+        "part_num": "98138pr0056",
+        "name": "Tile Round 1 x 1 with Animal Track Print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138pr0056/tile-round-1-x-1-with-animal-track-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6152676.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98138pb055"
+          ],
+          "BrickOwl": [
+            "876072"
+          ],
+          "Brickset": [
+            "26819"
+          ],
+          "LDraw": [
+            "98138p87"
+          ],
+          "LEGO": [
+            "26819"
+          ]
+        }
+      },
+      "color": {
+        "id": 84,
+        "name": "Medium Nougat",
+        "rgb": "AA7D55",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6287856",
+      "num_sets": 89
+    },
+    {
+      "id": 15480946,
+      "inv_part_id": 15480946,
+      "part": {
+        "part_num": "2417",
+        "name": "Plant, Leaves 6 x 5",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/2417/plant-leaves-6-x-5/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4129872.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2417"
+          ],
+          "BrickOwl": [
+            "130176"
+          ],
+          "Brickset": [
+            "2417"
+          ],
+          "LDraw": [
+            "2417"
+          ],
+          "LEGO": [
+            "2417"
+          ]
+        }
+      },
+      "color": {
+        "id": 10,
+        "name": "Bright Green",
+        "rgb": "4B9F4A",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6266964",
+      "num_sets": 100
+    },
+    {
+      "id": 15480947,
+      "inv_part_id": 15480947,
+      "part": {
+        "part_num": "24866",
+        "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/24866/plant-flower-plate-round-1-x-1-with-5-petals/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6209683.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "24866"
+          ],
+          "BrickOwl": [
+            "225859"
+          ],
+          "Brickset": [
+            "24866"
+          ],
+          "LDraw": [
+            "24866"
+          ],
+          "LEGO": [
+            "24866"
+          ]
+        }
+      },
+      "color": {
+        "id": 212,
+        "name": "Bright Light Blue",
+        "rgb": "9FC3E9",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6209683",
+      "num_sets": 105
+    },
+    {
+      "id": 15480951,
+      "inv_part_id": 15480951,
+      "part": {
+        "part_num": "32607",
+        "name": "Plant, Plate 1 x 1 Round with 3 Leaves",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/32607/plant-plate-1-x-1-round-with-3-leaves/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6182261.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "32607"
+          ],
+          "BrickOwl": [
+            "885757"
+          ],
+          "Brickset": [
+            "32607",
+            "5971"
+          ],
+          "LDraw": [
+            "32607"
+          ],
+          "LEGO": [
+            "32607",
+            "5971"
+          ]
+        }
+      },
+      "color": {
+        "id": 10,
+        "name": "Bright Green",
+        "rgb": "4B9F4A",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 2,
+      "is_spare": false,
+      "element_id": "6182261",
+      "num_sets": 421
+    },
+    {
+      "id": 15480954,
+      "inv_part_id": 15480954,
+      "part": {
+        "part_num": "36273",
+        "name": "Vehicle Body, Scooter Base",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/36273/vehicle-body-scooter-base/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6422091.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "36273"
+          ],
+          "BrickOwl": [
+            "698022"
+          ],
+          "Brickset": [
+            "36273"
+          ],
+          "LEGO": [
+            "36273"
+          ]
+        }
+      },
+      "color": {
+        "id": 5,
+        "name": "Dark Pink",
+        "rgb": "C870A0",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6422091",
+      "num_sets": 5
+    },
+    {
+      "id": 15480955,
+      "inv_part_id": 15480955,
+      "part": {
+        "part_num": "80674",
+        "name": "Insect, Butterfly",
+        "part_cat_id": 28,
+        "part_url": "https://rebrickable.com/parts/80674/insect-butterfly/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6379176.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "80674"
+          ],
+          "BrickOwl": [
+            "677716"
+          ],
+          "Brickset": [
+            "80674"
+          ],
+          "LDraw": [
+            "80674"
+          ],
+          "LEGO": [
+            "80674"
+          ]
+        }
+      },
+      "color": {
+        "id": 226,
+        "name": "Bright Light Yellow",
+        "rgb": "FFF03A",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6379176",
+      "num_sets": 21
+    },
+    {
+      "id": 16893515,
+      "inv_part_id": 16893515,
+      "part": {
+        "part_num": "24866",
+        "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+        "part_cat_id": 76,
+        "part_url": "https://rebrickable.com/parts/24866/plant-flower-plate-round-1-x-1-with-5-petals/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6209683.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "24866"
+          ],
+          "BrickOwl": [
+            "225859"
+          ],
+          "Brickset": [
+            "24866"
+          ],
+          "LDraw": [
+            "24866"
+          ],
+          "LEGO": [
+            "24866"
+          ]
+        }
+      },
+      "color": {
+        "id": 212,
+        "name": "Bright Light Blue",
+        "rgb": "9FC3E9",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6209683",
+      "num_sets": 105
+    },
+    {
+      "id": 16893516,
+      "inv_part_id": 16893516,
+      "part": {
+        "part_num": "30377",
+        "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/30377/arm-mechanical-with-2-clips-battle-droid/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6236189.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "30377"
+          ],
+          "BrickOwl": [
+            "925875"
+          ],
+          "Brickset": [
+            "30377",
+            "49754",
+            "55528",
+            "86024"
+          ],
+          "LDraw": [
+            "30377"
+          ],
+          "LEGO": [
+            "30377",
+            "49754",
+            "55528",
+            "86024"
+          ]
+        }
+      },
+      "color": {
+        "id": 179,
+        "name": "Flat Silver",
+        "rgb": "898788",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6330125",
+      "num_sets": 19
+    },
+    {
+      "id": 16893517,
+      "inv_part_id": 16893517,
+      "part": {
+        "part_num": "98138pr0056",
+        "name": "Tile Round 1 x 1 with Animal Track Print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138pr0056/tile-round-1-x-1-with-animal-track-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6152676.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "98138pb055"
+          ],
+          "BrickOwl": [
+            "876072"
+          ],
+          "Brickset": [
+            "26819"
+          ],
+          "LDraw": [
+            "98138p87"
+          ],
+          "LEGO": [
+            "26819"
+          ]
+        }
+      },
+      "color": {
+        "id": 84,
+        "name": "Medium Nougat",
+        "rgb": "AA7D55",
+        "is_trans": false
+      },
+      "set_num": "30639-1",
+      "quantity": 1,
+      "is_spare": true,
+      "element_id": "6287856",
+      "num_sets": 89
+    },
+    {
+      "id": 15480961,
+      "inv_part_id": 15480961,
+      "part": {
+        "part_num": "3626cpr1675",
+        "name": "Minifig Head Feldman / Rivera, Eyebrows, Freckles, Open Smile Teeth / Sleeping, Closed Eyes Print",
+        "part_cat_id": 59,
+        "part_url": "https://rebrickable.com/parts/3626cpr1675/minifig-head-feldman-rivera-eyebrows-freckles-open-smile-teeth-sleeping-closed-eyes-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6116616.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "3626pb1352"
+          ],
+          "BrickOwl": [
+            "539349"
+          ],
+          "Brickset": [
+            "21463"
+          ],
+          "LDraw": [
+            "3626cp8r"
+          ],
+          "LEGO": [
+            "21463"
+          ]
+        }
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false
+      },
+      "set_num": "fig-013389",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6116616",
+      "num_sets": 50
+    },
+    {
+      "id": 15480962,
+      "inv_part_id": 15480962,
+      "part": {
+        "part_num": "970c32",
+        "name": "Hips and Medium Blue Legs",
+        "part_cat_id": 61,
+        "part_url": "https://rebrickable.com/parts/970c32/hips-and-medium-blue-legs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4255808.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "970c00",
+            "970c42"
+          ],
+          "BrickOwl": [
+            "303528",
+            "549751"
+          ],
+          "Brickset": [
+            "73200",
+            "88584"
+          ],
+          "LEGO": [
+            "73200",
+            "88584"
+          ]
+        }
+      },
+      "color": {
+        "id": 73,
+        "name": "Medium Blue",
+        "rgb": "5A93DB",
+        "is_trans": false
+      },
+      "set_num": "fig-013389",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6064366",
+      "num_sets": 70
+    },
+    {
+      "id": 15480963,
+      "inv_part_id": 15480963,
+      "part": {
+        "part_num": "973c38h01pr5452",
+        "name": "Torso Jacket Over Light Blue Undershirt Print, Bright Light Orange Arms, Yellow Hands",
+        "part_cat_id": 60,
+        "part_url": "https://rebrickable.com/parts/973c38h01pr5452/torso-jacket-over-light-blue-undershirt-print-bright-light-orange-arms-yellow-hands/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6335285.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "973pb4113c01"
+          ],
+          "BrickOwl": [
+            "887334"
+          ],
+          "Brickset": [
+            "76382"
+          ],
+          "LDraw": [
+            "76382pue"
+          ],
+          "LEGO": [
+            "76382"
+          ]
+        }
+      },
+      "color": {
+        "id": 191,
+        "name": "Bright Light Orange",
+        "rgb": "F8BB3D",
+        "is_trans": false
+      },
+      "set_num": "fig-013389",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6335285",
+      "num_sets": 12
+    },
+    {
+      "id": 15480964,
+      "inv_part_id": 15480964,
+      "part": {
+        "part_num": "02137pat0001",
+        "name": "Hair and Helmet, Long with Medium Azure Helmet Pattern",
+        "part_cat_id": 65,
+        "part_url": "https://rebrickable.com/parts/02137pat0001/hair-and-helmet-long-with-medium-azure-helmet-pattern/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6429015.jpg",
+        "external_ids": {
+          "BrickLink": [
+            "2137pb02"
+          ],
+          "BrickOwl": [
+            "626144"
+          ],
+          "Brickset": [
+            "2137"
+          ],
+          "LEGO": [
+            "2137"
+          ]
+        }
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false
+      },
+      "set_num": "fig-013389",
+      "quantity": 1,
+      "is_spare": false,
+      "element_id": "6429015",
+      "num_sets": 4
+    }
+  ]
+}
