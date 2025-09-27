@@ -1,5 +1,5 @@
 <template>
-    <div v-if="part" class="mb-4 cursor-none">
+    <div v-if="part" class="mb-4">
         <v-row>
             <v-col cols="12" md="6">
                 <v-img class="cursor-move" :src="part.imageUrl" :alt="part.name" height="200" width="200"></v-img>
