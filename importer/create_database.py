@@ -133,8 +133,8 @@ def write_statistics():
     statistics = {
         "uniqueSets": unique_sets,
         "totalSets": total_sets,
-        "NonModelParts": nonmodel_parts,
-        "NonLegoParts": nonlego_parts,
+        "nonModelParts": nonmodel_parts,
+        "nonLegoParts": nonlego_parts,
         "totalDatabaseParts": total_database_parts,
         "totalLegoParts": total_lego_parts,
         "totalParts": total_parts,

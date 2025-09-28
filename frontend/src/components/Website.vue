@@ -12,7 +12,7 @@
       <SearchResultView :part="currentPart" :searchResult="searchResult" />
 
       <Overview :searchResult="searchResult" />
-      <AddNewSet />
+      <Statistics />
     </div>
   </v-container>
 </template>
@@ -24,7 +24,7 @@ import SearchBrick from "@/components/SearchBrick.vue";
 import SearchResultView from "@/components/SearchResultView.vue";
 import type { Part } from "@/model/Part";
 import { useSearchResults } from "@/service/SearchService";
-import Karussell from "./Karussell.vue";
+
 
 const { currentPart, searchResult, loadPartResults } = useSearchResults();
 
