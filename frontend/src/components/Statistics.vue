@@ -4,13 +4,14 @@
             <v-expansion-panel title="Statistics" class="elevation-4">
                 <v-expansion-panel-text>
                     Here are some statistics about my Lego sets and parts:
-                    <v-divider class="mb-3" />
+                    <v-divider class="mb-3" thickness="4" />
                     <div class="mb-2">Unique Sets: {{ statistics.uniqueSets }}</div>
                     <div class="mb-2">Total Sets: {{ statistics.totalSets }}</div>
+                    <v-divider class="mb-3" thickness="4" />
                     <div class="mb-2">Non-Model Parts: {{ statistics.NonModelParts }}</div>
                     <div class="mb-2">Non-Lego Parts: {{ statistics.NonLegoParts }}</div>
+                    <v-divider class="mb-3" thickness="4" />
                     <div class="mb-2">Total Database Parts: {{ statistics.totalDatabaseParts }}</div>
-                    <div class="mb-2">Total Lego Parts: {{ statistics.totalLegoParts }}</div>
                     <div class="mb-2">Total Parts: {{ statistics.totalParts }}</div>
 
 

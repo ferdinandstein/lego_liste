@@ -1,5 +1,5 @@
 <template>
-  <v-container class="fill-height" max-width="700">
+  <v-container class="fill-height justify-center" max-width="700">
     <div>
       <v-img class="mb-4" height="150" src="@/assets/logo.png" />
       <div class="mb-8 text-center">
