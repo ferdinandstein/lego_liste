@@ -9,6 +9,7 @@ from file_handling import (
     get_database_set_info_filepath,
     get_database_colors_filepath,
     get_database_part_info_filepath,
+    get_database_statistics_filepath,
 )
 from set_list import set_list
 
@@ -109,10 +110,46 @@ def write_parts_info():
             json.dump(part, part_info_file, indent=None, separators=(",", ":"))
 
 
+def write_statistics():
+    # Werte in neue Statistik Datei schreiben
+    statistics = {}
+    total_sets = 0
+    unique_sets = 0
+    total_database_parts = 0
+    total_lego_parts = 0
+    nonmodel_parts = 150 + 318 + 24  # 150=Lego Blätter 318=Zauberwürfel 24=Schienen
+    nonlego_parts = 3321  # 3321= BluebrBR623 Cadfic51001 QL0936 MouldFanMei19 LightStaxSystemBuilder
+    total_parts = 0
+
+    for lego_set in set_list:
+        short_id = lego_set["id"]
+        total_sets += lego_set["quantity"]
+        unique_sets += 1
+        set_info = load_set_info(short_id)
+        total_database_parts += set_info["num_parts"] * lego_set["quantity"]
+    total_lego_parts = total_database_parts + nonmodel_parts
+    total_parts = total_lego_parts + nonlego_parts
+
+    statistics = {
+        "uniqueSets": unique_sets,
+        "totalSets": total_sets,
+        "NonModelParts": nonmodel_parts,
+        "NonLegoParts": nonlego_parts,
+        "totalDatabaseParts": total_database_parts,
+        "totalLegoParts": total_lego_parts,
+        "totalParts": total_parts,
+    }
+
+    statistics_filepath = get_database_statistics_filepath()
+    with open(statistics_filepath, "w", encoding="utf-8") as statistics_file:
+        json.dump(statistics, statistics_file, indent=None, separators=(",", ":"))
+
+
 def main():
     write_set_info_for_all_sets()
     write_colors_info()
     write_parts_info()
+    write_statistics()
 
 
 if __name__ == "__main__":

@@ -29,6 +29,10 @@ def get_database_part_info_filepath(part_id):
     return os.path.join(get_database_parts_dir(), f"{part_id}.json")
 
 
+def get_database_statistics_filepath():
+    return os.path.join(get_database_dir(), f"statistics.json")
+
+
 def get_database_colors_filepath():
     return os.path.join(get_database_dir(), f"colors.json")
 
