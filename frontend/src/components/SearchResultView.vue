@@ -9,6 +9,7 @@
             </v-col>
             <v-list v-if="searchResult">
                 <v-list-item v-for="setInfo in searchResult.setInfosWithColorQuantity" :key="setInfo.id">
+                    {{ setInfo.quantity }}x
                     <v-list-item-media>
                         <v-img class="cursor-move" :src="setInfo.imageUrl" :alt="setInfo.name"></v-img>
                     </v-list-item-media>

@@ -81,9 +81,9 @@ export const useSearchResults = () => {
       for (const partColorQuantity of setInfoWithColorQuantity.quantityPerColor) {
         const colorId = partColorQuantity.colorId;
         if (quantityPerColorSet[colorId]) {
-          quantityPerColorSet[colorId] += partColorQuantity.quantity;
+          quantityPerColorSet[colorId] += partColorQuantity.quantity * setInfoWithColorQuantity.quantity;
         } else {
-          quantityPerColorSet[colorId] = partColorQuantity.quantity;
+          quantityPerColorSet[colorId] = partColorQuantity.quantity * setInfoWithColorQuantity.quantity;
         }
       }
     }
