@@ -41,7 +41,7 @@ const statistics = ref({
 
 // Load the JSON file when the component is mounted
 onMounted(async () => {
-    const response = await fetch('lego_liste/database/statistics.json'); // Relative to the public folder
+    const response = await fetch('database/statistics.json'); // Relative to the public folder
     statistics.value = await response.json();
 });
 
