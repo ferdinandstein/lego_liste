@@ -118,7 +118,9 @@ def write_statistics():
     total_database_parts = 0
     total_lego_parts = 0
     nonmodel_parts = 150 + 318 + 24  # 150=Lego Blätter 318=Zauberwürfel 24=Schienen
-    nonlego_parts = 3321  # 3321= BluebrBR623 Cadfic51001 QL0936 MouldFanMei19 LightStaxSystemBuilder
+    nonlego_parts = (
+        3321 + 888
+    )  # 3321= BluebrBR623 Cadfic51001 QL0936 MouldFanMei19 LightStaxSystemBuilder, PlaxsoonSc004
     total_parts = 0
 
     for lego_set in set_list:
