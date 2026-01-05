@@ -8,8 +8,8 @@
                     <div class="mb-2">Unique Sets: {{ statistics.uniqueSets }}</div>
                     <div class="mb-2">Total Sets: {{ statistics.totalSets }}</div>
                     <v-divider class="mb-3" thickness="4" />
-                    <div class="mb-2">Non-Model Parts: {{ statistics.NonModelParts }}</div>
-                    <div class="mb-2">Non-Lego Parts: {{ statistics.NonLegoParts }}</div>
+                    <div class="mb-2">Non-Model Parts: {{ statistics.nonModelParts }}</div>
+                    <div class="mb-2">Non-Lego Parts: {{ statistics.nonLegoParts }}</div>
                     <v-divider class="mb-3" thickness="4" />
                     <div class="mb-2">Total Database Parts: {{ statistics.totalDatabaseParts }}</div>
                     <div class="mb-2">Total Parts: {{ statistics.totalParts }}</div>
@@ -31,8 +31,8 @@ import { ref, onMounted } from 'vue';
 const statistics = ref({
     uniqueSets: 0,
     totalSets: 0,
-    NonModelParts: 0,
-    NonLegoParts: 0,
+    nonModelParts: 0,
+    nonLegoParts: 0,
     totalDatabaseParts: 0,
     totalLegoParts: 0,
     totalParts: 0,
