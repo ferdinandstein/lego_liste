@@ -131,6 +131,8 @@ def write_statistics():
         total_database_parts += set_info["num_parts"] * lego_set["quantity"]
     total_lego_parts = total_database_parts + nonmodel_parts
     total_parts = total_lego_parts + nonlego_parts
+    unique_sets += 6  # HIER ÄNDERN für nicht Database Modelle
+    total_sets += 6  # HIER ÄNDERN für nicht Database Modelle
 
     statistics = {
         "uniqueSets": unique_sets,
