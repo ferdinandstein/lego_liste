@@ -7,3 +7,5 @@
 1. `create_database.py` ausführen.
 1. Das ganze committen.
 1. Das ganze pushen.
+
+# Wenn sich die Statistiken nicht ändern, dann liegt das daran, das der Browser die alten Daten noch im Cache hat. Einmal Browser schließen.
