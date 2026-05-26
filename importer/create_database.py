@@ -117,7 +117,9 @@ def write_statistics():
     unique_sets = 0
     total_database_parts = 0
     total_lego_parts = 0
-    nonmodel_parts = 150 + 318 + 24  # 150=Lego Blätter 318=Zauberwürfel 24=Schienen
+    nonmodel_parts = (
+        150 + 318 + 24 + 190
+    )  # 150=Lego Blätter 318=Zauberwürfel 24=Schienen 190=Einzelteile aus BlueBrixx Laden
     nonlego_parts = (
         3321 + 888
     )  # 3321= BluebrBR623 Cadfic51001 QL0936 MouldFanMei19 LightStaxSystemBuilder, PlaxsoonSc004
