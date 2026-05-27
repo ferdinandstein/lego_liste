@@ -194,4 +194,5 @@ set_list = [
     {"id": 30639, "quantity": 1},
     {"id": 30636, "quantity": 2},
     {"id": 10343, "quantity": 1},
+    {"id": 31212, "quantity": 1},
 ]
