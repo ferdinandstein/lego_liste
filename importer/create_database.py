@@ -120,9 +120,14 @@ def write_statistics():
     nonmodel_parts = (
         150 + 318 + 24 + 190
     )  # 150=Lego Blätter 318=Zauberwürfel 24=Schienen 190=Einzelteile aus BlueBrixx Laden
-    nonlego_parts = (
-        3321 + 888
-    )  # 3321= BluebrBR623 Cadfic51001 QL0936 MouldFanMei19 LightStaxSystemBuilder, PlaxsoonSc004
+    nonlego_parts = 3321 + 888 + 583
+    # 3321= BluebrBR623
+    # Cadfic51001
+    # QL0936
+    # MouldFanMei19
+    # LightStaxSystemBuilder,
+    # 888= PlaxsoonSc004,
+    # 538 = Rotfeuerfish Bluebrixx Pro 108796
     total_parts = 0
 
     for lego_set in set_list:
@@ -133,8 +138,8 @@ def write_statistics():
         total_database_parts += set_info["num_parts"] * lego_set["quantity"]
     total_lego_parts = total_database_parts + nonmodel_parts
     total_parts = total_lego_parts + nonlego_parts
-    unique_sets += 6  # HIER ÄNDERN für nicht Database Modelle
-    total_sets += 6  # HIER ÄNDERN für nicht Database Modelle
+    unique_sets += 7  # HIER ÄNDERN für nicht Database Modelle
+    total_sets += 7  # HIER ÄNDERN für nicht Database Modelle
 
     statistics = {
         "uniqueSets": unique_sets,
